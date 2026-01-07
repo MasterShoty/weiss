@@ -12,7 +12,7 @@ body {
     padding: 0 1em;
 }
 
-li:has(> img + em) {
+li:has(> img) {
    display: grid;
    grid-auto-flow: column;
    grid-template-rows: auto auto;
