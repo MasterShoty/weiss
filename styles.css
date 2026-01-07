@@ -11,3 +11,11 @@ body {
     max-width: 75em;
     padding: 0 1em;
 }
+
+li:has(> img + em) {
+   display: grid;
+   grid-auto-flow: column;
+   grid-template-rows: auto auto;
+   grid-template-columns: repeat(4, 230px);
+   column-gap: 0.5em;
+}
