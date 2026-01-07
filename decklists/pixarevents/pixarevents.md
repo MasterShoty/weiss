@@ -1,6 +1,5 @@
 ---
 title: Pixar Events (Door / Bar)
-custom_css: styles.css
 ---
 Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wish that maybe Weiss is a bit more interactive, maybe bully your opponent a little bit and make them pay for being greedy? Well with this event focused Pixar deck you can that while also brainstorming every turn, gaining an obscene amount of resources, and milling out every turn. 
 
@@ -66,13 +65,13 @@ One of the most amazing riki profile so far, there are two separate trigger timi
 
 This is a nice beater that can also give us some hand and offers some mill. Our sheep can grow pretty big (+1k per opponent's character), allowing us to beat most lv1 combos if we can't field triple ourselves.
 
-![Lv0 Mater Riko](./cards/webp/pxr_s94_t44s.webp)*Ditch to top-check, salvage lvl shown. ![Lv0 Mike Double Filter](./cards/webp/pxr_s94_t24.webp)*Ditch cx salvage. 2 or more draw ditch.*
+![Lv0 Mater Riko](./cards/webp/pxr_s94_t44s.webp)*Ditch to top-check, salvage lvl shown.* ![Lv0 Mike Double Filter](./cards/webp/pxr_s94_t24.webp)*Ditch cx salvage. 2 or more draw ditch.*
 
 Mater is a Riko profile, mainly used to loop brainstorm or filter for 0s. Our chance of revealing a lv1 is actually 50/50 in this deck so it can also be a way to loop combo.
 
 Mike Wazowski is a very nice double filter that also offers some draw. We will trigger bars so having the ability to grab a specific character from waiting room will come up often. I always salvage this off combo if able.
 
-![Lv0 Woody Cx Swap](./cards/webp/pxr_s94_t02.webp)*Cx swap. Check 2 rearrange. ![Lv0 Luca Cantrip](./cards/webp/pxr_s94_075.webp)*Pay 1 ditch 1, check x. Pay 2 freefesh.*
+![Lv0 Woody Cx Swap](./cards/webp/pxr_s94_t02.webp)*Cx swap. Check 2 rearrange.* ![Lv0 Luca Cantrip](./cards/webp/pxr_s94_075.webp)*Pay 1 ditch 1, check x. Pay 2 freefesh.*
 
 Woody is just a basic cx swap, but the ability to check 2 rearrange can set up hits for our lv1 combo.
 
