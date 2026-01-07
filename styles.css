@@ -1,4 +1,5 @@
-p:has(> a img),
+/* Style for img and linked-img with descriptions (230px cards) */
+p:has(> a + em),
 p:has(> img + em) {
    display: grid;
    grid-auto-flow: column;

@@ -11,7 +11,8 @@ Usually events are tricky to play Weiss Schwarz because there are few ways to ge
 
 ### The Lv1 Combo - Ducky and Bunny
 
-[![Lv1 Ducky & Bunny](./cards/webp/pxr_s122_071.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-071) *On attack with cx, top-check to salvage the lvl shown or lower, then optional hand to stock, if the revealed card is an event then draw 1.*
+[![Lv1 Ducky & Bunny](./cards/webp/pxr_s122_071.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-071) 
+*On attack with cx, top-check to salvage the lvl shown or lower, then optional hand to stock, if the revealed card is an event then draw 1.*
 
 This is the bread and butter of the deck and what it is built around, there is a lot of effect text cause it is overpowered. Our lv1 combo is a conditional plus 2 hand that also allows us to convert hand in order to gain up to 6 stock a turn. Generally in Weiss Schwarz generating 3 stock a turn is the base, so being able to gain more stock a turn without having to swing with a different card like a stock-charge profile is a great bonus. The catch for fully utilizing this insane advantage combo is having to play a lot of events, a deck building restriction. Oh and it also requires 3 or more other characters I guess.
 
