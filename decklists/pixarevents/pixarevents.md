@@ -16,11 +16,10 @@ Usually events are tricky to play Weiss Schwarz because there are few ways to ge
 
 This is the bread and butter of the deck and what it is built around. Our lv1 combo is a conditional plus 2 hand that also allows us to convert hand in order to gain up to 6 stock a turn. Generally in Weiss Schwarz generating 3 stock a turn is the base, so being able to gain more stock a turn without having to swing with a different card like a stock-charge profile is a great bonus. The catch for fully utilizing this insane advantage combo is having to play a lot of events, a deck building restriction. 
 
-While lv1 combos that pluses 2 is nothing new (such as Chloe or more recently Saki and Modernia) there is surprising flexibility in being able to choose between gaining more stock or hand. We can also pick when and what goes in stock which is very useful in the hands of a good player. A common drawback to these types of combo is poor card selection, however since we don't play any other lv1 or lv2 characters this drawback is less noticeable. Another issue is that the combo effect offers no mill on its own, but you'll see that this won't be a problem after seeing the rest of the deck.
+While lv1 combos that pluses 2 is nothing new (such as [Chloe](https://en.ws-tcg.com/cardlist/?cardno=HOL/W104-E070) or more recently [Saki](https://ws-tcg.com/cardlist/?cardno=GIM/W124-036a) and [Modernia](https://en.ws-tcg.com/cardlist/?cardno=NIK/S117-E059)) there is surprising flexibility in being able to choose between gaining more stock or hand. We can also pick when and what goes in stock which is very useful in the hands of a good player. A common drawback to these types of combo is poor card selection, however since we don't play any other lv1 or lv2 characters this drawback is less noticeable. Another issue is that the combo effect offers no mill on its own, but you'll see that this won't be a problem after seeing the rest of the deck.
 
 ### The Brainstorm
-![Lv0 Trixie Brainstorm](./cards/webp/pxr_s122_015.webp) ![Lv0 Sparks Vanilla](./cards/webp/pxr_s122_058.webp) 
-*On play ditch 1, search vanilla from deck. Brainstorm 6 if there's a vanilla, salvage per cx hit*
+![Lv0 Trixie Brainstorm](./cards/webp/pxr_s122_015.webp)*On play ditch 1, search vanilla from deck. Brainstorm 6 if there's a vanilla, salvage per cx hit* ![Lv0 Sparks Vanilla](./cards/webp/pxr_s122_058.webp) 
 
 What is better than brainstorm 4? Brainstorm 5. What is better than brainstorm 5? Tap-self brainstorm 6, salvage per generic cx hit. We've seen the rise of brainstorm 5 recently in 2024 & 2025, however, they are often locked to specific cxs or needing to tap 2. For us, the demerit is that the vanilla t-rex has to be on the field in order to perform the brainstorm. 
 
@@ -51,7 +50,7 @@ Lucky for me this deck generates up to 6 stock 3 hand a turn + whatever the brai
 
 ![Lv2 Ratatouille Event](./cards/webp/pxr_s94_024.webp)*Pay 3 stockswap, salvage 1.*
 
-Last but not least, having to access to stockswap before lv3 is always a treat. Yes it's not [buns] but our opponent must always respect the stockswap, and we generate enough stock to be afford it easily. The bonus of salvage on play makes it hand neutral and can grab a finisher or loop combo at lv2. This deck plays the yellow event from the previous set but the same profile also got reprinted in red. Playing the yellow event here is important because the color is needed for our lv1 tornado event. 
+Last but not least, having to access to stockswap before lv3 is always a treat. Yes it's not [buns](https://en.ws-tcg.com/cardlist/?cardno=BD/W54-E065) but our opponent must always respect the stockswap, and we generate enough stock to be afford it easily. The bonus of salvage on play makes it hand neutral and can grab a finisher or loop combo at lv2. This deck plays the yellow event from the previous set but the same profile also got reprinted in red. Playing the yellow event here is important because the color is needed for our lv1 tornado event. 
 
 ### The Finisher - Buzz & Jessie
 ![Lv3 Buzz & Jessie Finisher](./cards/webp/pxr_s122_039.webp)*On play check 3 add 1. On attack pitch 2, mill opponent's bottom 4, burn x+2 for every lv0 milled.*
@@ -63,26 +62,26 @@ At first glance this isn't a very exciting finisher, but it comes with many perk
  
 One of the most amazing riki profile so far, there are two separate trigger timings and this card can mill up to 10 cards on its own. We can also add events off the effect. Incredible design by Bushiroad.
 
-![Lv0 Sheep](./cards/webp/pxr_s122_087.webp)*On play gets 1000*x per opponent's character. On reversing opponent, pay 1, check 2, opponent picks one to add to hand.*
+![Lv0 Sheep](./cards/webp/pxr_s122_087.webp)*On reversing opponent, pay 1, check 2, opponent picks one to add to hand.*
 
-This is a nice beater that can also give us some hand and offers some mill. Our sheep can grow pretty big, allowing us to beat most lv1 combos if we can't field triple ourselves.
+This is a nice beater that can also give us some hand and offers some mill. Our sheep can grow pretty big (+1k per opponent's character), allowing us to beat most lv1 combos if we can't field triple ourselves.
 
-![Lv0 Mater Riko](./cards/webp/pxr_s94_t44s.webp) ![Lv0 Mike Double Filter](./cards/webp/pxr_s94_t24.webp)
+![Lv0 Mater Riko](./cards/webp/pxr_s94_t44s.webp)*Ditch to top-check, salvage lvl shown. ![Lv0 Mike Double Filter](./cards/webp/pxr_s94_t24.webp)*Ditch cx salvage. 2 or more draw ditch.*
 
 Mater is a Riko profile, mainly used to loop brainstorm or filter for 0s. Our chance of revealing a lv1 is actually 50/50 in this deck so it can also be a way to loop combo.
 
 Mike Wazowski is a very nice double filter that also offers some draw. We will trigger bars so having the ability to grab a specific character from waiting room will come up often. I always salvage this off combo if able.
 
-![Lv0 Woody Cx Swap](./cards/webp/pxr_s94_t02.webp) ![Lv0 Luca Cantrip](./cards/webp/pxr_s94_075.webp)
+![Lv0 Woody Cx Swap](./cards/webp/pxr_s94_t02.webp)*Cx swap. Check 2 rearrange. ![Lv0 Luca Cantrip](./cards/webp/pxr_s94_075.webp)*Pay 1 ditch 1, check x. Pay 2 freefesh.*
 
-Woody is a basic cx swap with the ability to check 2 rearrange, this can set up hits for our lv1 combo.
+Woody is just a basic cx swap, but the ability to check 2 rearrange can set up hits for our lv1 combo.
 
 Luca allows us to dig for a gate because slamming a cx every turn is how you win in Weiss. The ability to pay 2 to freefresh can sometimes come up but very rarely since our lv1 combo requires a waiting room.
 
 ### The early-plays
-![Lv3 Woody & Friends](./cards/webp/pxr_s94_003.webp) ![Lv3 Ducky & Bunny](./cards/webp/pxr_s122_091.webp)
+![Lv3 Woody & Friends](./cards/webp/pxr_s94_003.webp)*4+ ep heal to stock* ![Lv3 Ducky & Bunny](./cards/webp/pxr_s122_091.webp)*6+ events ep heal*
 
-Pretty basic ep-healers here. Woody & Friends is the easier to use 4 or more early-play heal to stock but sometimes it can be hard to meet color condition. While Ducky & Bunny is a 6 or more events early-play to heal, since it is on red we'll always have color. 
+Pretty basic ep-healers here. Woody & Friends is the easier to use ep healer but sometimes it can be hard to meet color condition. Ducky & Bunny is on red so we won't miss color, but it's ep condition can be trickier to use. 
 
 #### And that is all the cards for the deck!
 
