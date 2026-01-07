@@ -30,7 +30,7 @@ As mentioned earlier, this deck needs to play a lot of events so that we can tak
 
 [![Lv1 Forky Event](./cards/webp/pxr_s122_092.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-092) *Check 3 add 1.* [![Lv1 Bullseye Event](./cards/webp/pxr_s94_t09.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-T09) *Brainstorm 3, salvage lvl equal to characters milled.* 
 
-Spork is a Torch profile that can add events, however it can only check 3 cards.
+Forky is a Torch profile that can add events, however it can only check 3 cards.
 
 Bullseye is a Tornado profile which makes it very easy to loop combo or add 0s.
 
