@@ -5,7 +5,7 @@ Are you sick of these decks that brainstorm twice every turn, generate infinite 
 
 Usually events are tricky to play Weiss Schwarz because there are few ways to get them into hand other than drawing them for turn or using a combo that adds a specific event. Thankfully, the Toy Story 30th Anniversary set added more ways to dig for them and it also comes with new exciting events that either helps with consistency or allows us to bully the opponent.
 
-![Pixar Event Deck](./cards/7C0L9.png)
+[![Pixar Event Deck](./cards/7C0L9.png)](https://decklog-en.bushiroad.com/ja/view/7C0L9)
 
 ## Overview
 
