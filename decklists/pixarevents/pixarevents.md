@@ -13,7 +13,7 @@ Usually events are tricky to play Weiss Schwarz because there are few ways to ge
 
 [![Lv1 Ducky & Bunny](./cards/webp/pxr_s122_071.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-071) *On attack with cx, top-check to salvage the lvl shown or lower, then optional hand to stock, if the revealed card is an event then draw 1.*
 
-This is the bread and butter of the deck and what it is built around. Our lv1 combo is a conditional plus 2 hand that also allows us to convert hand in order to gain up to 6 stock a turn. Generally in Weiss Schwarz generating 3 stock a turn is the base, so being able to gain more stock a turn without having to swing with a different card like a stock-charge profile is a great bonus. The catch for fully utilizing this insane advantage combo is having to play a lot of events, a deck building restriction. Oh and it also requires 3 or more other characters I guess.
+This is the bread and butter of the deck and what it is built around, there is a lot of effect text cause it is overpowered. Our lv1 combo is a conditional plus 2 hand that also allows us to convert hand in order to gain up to 6 stock a turn. Generally in Weiss Schwarz generating 3 stock a turn is the base, so being able to gain more stock a turn without having to swing with a different card like a stock-charge profile is a great bonus. The catch for fully utilizing this insane advantage combo is having to play a lot of events, a deck building restriction. Oh and it also requires 3 or more other characters I guess.
 
 While lv1 combos that pluses 2 is nothing new (such as [Chloe](https://en.ws-tcg.com/cardlist/?cardno=HOL/W104-E070) or more recently [Saki](https://ws-tcg.com/cardlist/?cardno=GIM/W124-036a) and [Modernia](https://en.ws-tcg.com/cardlist/?cardno=NIK/S117-E059)) there is surprising flexibility in being able to choose between gaining more stock or hand. We can also pick when and what goes in stock which is very useful in the hands of a good player. A common drawback to these types of combo is poor card selection, however since we don't play any other lv1 or lv2 characters this drawback is less noticeable. Another issue is that the combo effect offers no mill on its own, but you'll see that this won't be a problem after seeing the rest of the deck.
 
@@ -71,7 +71,7 @@ Mater is a Riko profile, mainly used to loop brainstorm or filter for 0s. Our ch
 
 Mike Wazowski is a very nice double filter that also offers some draw. We will trigger bars so having the ability to grab a specific character from waiting room will come up often. I always salvage this off combo if able.
 
-[![Lv0 Woody Cx Swap](./cards/webp/pxr_s94_t02.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-T02) *Cx swap. Check 2 rearrange.* [![Lv0 Luca Cantrip](./cards/webp/pxr_s94_075.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-075) *Pay 1 ditch 1, check x. Pay 2 freefesh.*
+[![Lv0 Woody Cx Swap](./cards/webp/pxr_s94_t02.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-T02) *Cx swap. Check 2 rearrange.* [![Lv0 Luca Cantrip](./cards/webp/pxr_s94_075.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-075) *Pay 1 ditch 1, check x. Pay 2 freefresh.*
 
 Woody is just a basic cx swap, but the ability to check 2 rearrange can set up hits for our lv1 combo.
 
