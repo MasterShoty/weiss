@@ -7,7 +7,7 @@ Usually events are tricky to play Weiss Schwarz because there are few ways to ge
 
 ## Overview
 
-#### The Lv1 Combo - Ducky and Bunny
+### The Lv1 Combo - Ducky and Bunny
 
 ![Lv1 Ducky & Bunny](./cards/webp/pxr_s122_071.webp)*On attack with cx, top-check deck to salvage the level shown or lower, then optional hand to stock, then if the revealed card is an event then draw 1. Requires 3 or more other characters.*
 
@@ -15,7 +15,7 @@ This is the bread and butter of the deck and what it is built around. Our lv1 co
 
 While lv1 combos that pluses 2 is nothing new (such as Chloe or more recently Saki and Modernia) there is surprising flexibility in being able to choose between gaining more stock or hand. We can also pick when and what goes in stock which is very useful in the hands of a good player. A common drawback to these types of combo is poor card selection, however since we don't play any other lv1 or lv2 characters this drawback is less noticeable. Another issue is that the combo effect offers no mill on its own, but you'll see that this won't be a problem after seeing the rest of the deck.
 
-#### The Brainstorm
+### The Brainstorm
 ![Lv0 Trixie Brainstorm](./cards/webp/pxr_s122_015.webp) ![Lv0 Sparks Vanilla](./cards/webp/pxr_s122_058.webp) 
 *On play ditch 1, search vanilla from deck. Brainstorm 6 if there's a vanilla, salvage per cx hit*
 
@@ -23,7 +23,7 @@ What is better than brainstorm 4? Brainstorm 5. What is better than brainstorm 5
 
 Experienced players would already know how broken brainstorm 6 is - one stock can convert to 50% more resources, 50% more mill, and much lower variance on missing brainstorm and being sad and broke and lonely. Btw the styracosaurus brainstorm also bonds to the vanilla t-rex allowing us to search for it from deck, so we'll always meet the condition to use the brainstorm. As a cherry on top this effect also serves as a ditchout or hand-filter for an early body.
 
-#### The events
+### The events
 As mentioned earlier, this deck needs to play a lot of events so that we can take advantage of being able to plus 2 off the lv1 combo. In total my build plays 15 events which feels like a sweet-spot, but feel free to play more or less depending on how greedy you feel.
 
 ![Lv1 Forky Event](./cards/webp/pxr_s122_092.webp)*Check 3 add 1* ![Lv1 Bullseye Event](./cards/webp/pxr_s94_t09.webp)*Brainstorm 3, salvage lvl equal to characters milled* 
@@ -50,12 +50,12 @@ Lucky for me this deck generates up to 6 stock 3 hand a turn + whatever the brai
 
 Last but not least, having to access to stockswap before lv3 is always a treat. Yes it's not [buns] but our opponent must always respect the stockswap, and we generate enough stock to be afford it easily. The bonus of salvage on play makes it hand neutral and can grab a finisher or loop combo at lv2. This deck plays the yellow event from the previous set but the same profile also got reprinted in red. Playing the yellow event here is important because the color is needed for our lv1 tornado event. 
 
-#### The Finisher - Buzz & Jessie
+### The Finisher - Buzz & Jessie
 ![Lv3 Buzz & Jessie Finisher](./cards/webp/pxr_s122_039.webp)*On play check 3 add 1. On attack pitch 2, mill opponent's bottom 4, burn x+2 for every lv0 milled.*
 
 At first glance this isn't a very exciting finisher, but it comes with many perks. The on-play effect means that we'll always find our cx or dig for a stockswap or bully event. Icytail-type finishers is famous for being able to ignore the opponent's compression. Interestingly, Buzz & Jessie also guarantee at least a burn 2 despite being an icytail finisher so we will always have reach even if 0cxs are milled, such as against a stockswapped deck with few cxs. Overall, it is just a flexible and efficient finisher that works into any deckstate.
 
-#### The lv0s
+### The lv0s
 ![Lv0 Buzz & Woody Riki](./cards/webp/pxr_s122_069.webp)*On play or on waiting room, pay 1 clock top deck, check 5 add 1.*
  
 One of the most amazing riki profile so far, there are two separate trigger timings and this card can mill up to 10 cards on its own. We can also add events off the effect. Incredible design by Bushiroad.
@@ -76,11 +76,11 @@ Woody is a basic cx swap with the ability to check 2 rearrange, this can set up 
 
 Luca allows us to dig for a gate because slamming a cx every turn is how you win in Weiss. The ability to pay 2 to freefresh can sometimes come up but very rarely since our lv1 combo requires a waiting room.
 
-#### The early-plays
+### The early-plays
 ![Lv3 Woody & Friends](./cards/webp/pxr_s94_003.webp) ![Lv3 Ducky & Bunny](./cards/webp/pxr_s122_091.webp)
 
 Pretty basic ep-healers here. Woody & Friends is the easier to use 4 or more early-play heal to stock but sometimes it can be hard to meet color condition. While Ducky & Bunny is a 6 or more events early-play to heal, since it is on red we'll always have color. 
 
-##### And that is all the cards for the deck!
+#### And that is all the cards for the deck!
 
 ## Pros & Cons
