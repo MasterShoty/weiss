@@ -1,3 +1,4 @@
+p:has(> a img),
 p:has(> img + em) {
    display: grid;
    grid-auto-flow: column;
