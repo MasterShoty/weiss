@@ -3,7 +3,7 @@
 
 ### Deck Lists
 
-####[Pixar Events](./decklists/pixarevents/pixarevents)
+#### [Pixar Events](./decklists/pixarevents/pixarevents)
 An event heavy deck that focuses on generating infinite resources with brainstorm 6 and combo that pluses 2, into hindering the opponent's gameplan by sending their cards to memory, and finally ending with a cheap icytail finisher.
 
 #### Saekano 8 Bar (Coming Soon)
