@@ -5,7 +5,7 @@ title: Hi I'm Shoty, I put my Weiss Schwarz contents here
 
 ## Deck Lists
 
-### [Pixar Events](./decklists/pixarevents/pixarevents)
+### [Pixar Events](./decklists/pixarevents)
 An event heavy deck that focuses on generating infinite resources with brainstorm 6 and combo that pluses 2, into hindering the opponent's gameplan by sending their cards to memory, and finally ending with a cheap icytail finisher.
 
 ### Saekano 8 Bar (Coming Soon)
