@@ -1,9 +1,13 @@
-/* Style for img and linked-img with descriptions (230px cards) */
+/* Style for img and linked-img with caption (230px cards) */
 p:has(> a + em),
 p:has(> img + em) {
    display: grid;
    grid-auto-flow: column;
    grid-template-rows: auto auto;
-   grid-template-columns: repeat(4, 230px);
+   grid-template-columns: 375px; /* bigger room for single card caption */
    column-gap: 0.5em;
+}
+
+p:has(> a + em + :nth-last-child(n+1)) {
+      grid-template-columns: repeat(4, 230px);
 }
