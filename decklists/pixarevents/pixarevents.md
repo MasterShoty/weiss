@@ -11,14 +11,14 @@ Usually events are tricky to play Weiss Schwarz because there are few ways to ge
 
 ### The Lv1 Combo - Ducky and Bunny
 
-![Lv1 Ducky & Bunny](./cards/webp/pxr_s122_071.webp)*On attack with cx, top-check deck to salvage the level shown or lower, then optional hand to stock, then if the revealed card is an event then draw 1. Requires 3 or more other characters.*
+![Lv1 Ducky & Bunny](./cards/webp/pxr_s122_071.webp)*On attack with cx, top-check to salvage the lvl shown or lower, then optional hand to stock, if the revealed card is an event then draw 1.*
 
-This is the bread and butter of the deck and what it is built around. Our lv1 combo is a conditional plus 2 hand that also allows us to convert hand in order to gain up to 6 stock a turn. Generally in Weiss Schwarz generating 3 stock a turn is the base, so being able to gain more stock a turn without having to swing with a different card like a stock-charge profile is a great bonus. The catch for fully utilizing this insane advantage combo is having to play a lot of events, a deck building restriction. 
+This is the bread and butter of the deck and what it is built around. Our lv1 combo is a conditional plus 2 hand that also allows us to convert hand in order to gain up to 6 stock a turn. Generally in Weiss Schwarz generating 3 stock a turn is the base, so being able to gain more stock a turn without having to swing with a different card like a stock-charge profile is a great bonus. The catch for fully utilizing this insane advantage combo is having to play a lot of events, a deck building restriction. Oh and it also requires 3 or more other characters I guess.
 
 While lv1 combos that pluses 2 is nothing new (such as [Chloe](https://en.ws-tcg.com/cardlist/?cardno=HOL/W104-E070) or more recently [Saki](https://ws-tcg.com/cardlist/?cardno=GIM/W124-036a) and [Modernia](https://en.ws-tcg.com/cardlist/?cardno=NIK/S117-E059)) there is surprising flexibility in being able to choose between gaining more stock or hand. We can also pick when and what goes in stock which is very useful in the hands of a good player. A common drawback to these types of combo is poor card selection, however since we don't play any other lv1 or lv2 characters this drawback is less noticeable. Another issue is that the combo effect offers no mill on its own, but you'll see that this won't be a problem after seeing the rest of the deck.
 
 ### The Brainstorm
-![Lv0 Trixie Brainstorm](./cards/webp/pxr_s122_015.webp)*On play ditch 1, search vanilla from deck. Brainstorm 6 if there's a vanilla, salvage per cx hit* ![Lv0 Sparks Vanilla](./cards/webp/pxr_s122_058.webp) 
+![Lv0 Trixie Brainstorm](./cards/webp/pxr_s122_015.webp)*On play ditch 1, search vanilla from deck. Brainstorm 6 if there's a vanilla, salvage per cx hit.* ![Lv0 Sparks Vanilla](./cards/webp/pxr_s122_058.webp) 
 
 What is better than brainstorm 4? Brainstorm 5. What is better than brainstorm 5? Tap-self brainstorm 6, salvage per generic cx hit. We've seen the rise of brainstorm 5 recently in 2024 & 2025, however, they are often locked to specific cxs or needing to tap 2. For us, the demerit is that the vanilla t-rex has to be on the field in order to perform the brainstorm. 
 
@@ -27,7 +27,7 @@ Experienced players would already know how broken brainstorm 6 is - one stock ca
 ### The events
 As mentioned earlier, this deck needs to play a lot of events so that we can take advantage of being able to plus 2 off the lv1 combo. In total my build plays 15 events which feels like a sweet-spot, but feel free to play more or less depending on how greedy you feel.
 
-![Lv1 Forky Event](./cards/webp/pxr_s122_092.webp)*Check 3 add 1* ![Lv1 Bullseye Event](./cards/webp/pxr_s94_t09.webp)*Brainstorm 3, salvage lvl equal to characters milled* 
+![Lv1 Forky Event](./cards/webp/pxr_s122_092.webp)*Check 3 add 1.* ![Lv1 Bullseye Event](./cards/webp/pxr_s94_t09.webp)*Brainstorm 3, salvage lvl equal to characters milled.* 
 
 Spork is a Torch profile that can add events, however it can only check 3 cards.
 
@@ -35,7 +35,7 @@ Bullseye is a Tornado profile which makes it very easy to loop combo or add 0s.
 
 Deckspeed good. 
 
-![Lv2 Duke Caboom Event](./cards/webp/pxr_s122_095.webp)*Pay 1 to check 3 add 2, or salvage a gate*
+![Lv2 Duke Caboom Event](./cards/webp/pxr_s122_095.webp)*Pay 1 to check 3 add 2, or salvage a gate.*
 
 Slamming a cx every turn is how we keep generating an unfair amount of resources and this event helps with that. It is also emergency mill or stockout, and can add events.
 
@@ -78,7 +78,7 @@ Woody is just a basic cx swap, but the ability to check 2 rearrange can set up h
 Luca allows us to dig for a gate because slamming a cx every turn is how you win in Weiss. The ability to pay 2 to freefresh can sometimes come up but very rarely since our lv1 combo requires a waiting room.
 
 ### The early-plays
-![Lv3 Woody & Friends](./cards/webp/pxr_s94_003.webp)*4+ ep heal to stock* ![Lv3 Ducky & Bunny](./cards/webp/pxr_s122_091.webp)*6+ events ep heal*
+![Lv3 Woody & Friends](./cards/webp/pxr_s94_003.webp)*4+ ep heal to stock.* ![Lv3 Ducky & Bunny](./cards/webp/pxr_s122_091.webp)*6+ events ep heal.*
 
 Pretty basic ep-healers here. Woody & Friends is the easier to use ep healer but sometimes it can be hard to meet color condition. Ducky & Bunny is on red so we won't miss color, but it's ep condition can be trickier to use. 
 
