@@ -25,7 +25,7 @@ What is better than brainstorm 4? Brainstorm 5. What is better than brainstorm 5
 
 Experienced players would already know how broken brainstorm 6 is - one stock can convert to 50% more resources, 50% more mill, and much lower variance on missing brainstorm and being sad and broke and lonely. Btw the styracosaurus brainstorm also bonds to the vanilla t-rex allowing us to search for it from deck, so we'll always meet the condition to use the brainstorm. As a cherry on top this effect also serves as a ditchout or hand-filter for an early body.
 
-### The events
+### The Events
 As mentioned earlier, this deck needs to play a lot of events so that we can take advantage of being able to plus 2 off the lv1 combo. In total my build plays 15 events which feels like a sweet-spot, but feel free to play more or less depending on how greedy you feel.
 
 [![Lv1 Forky Event](./cards/webp/pxr_s122_092.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-092) *Check 3 add 1.* [![Lv1 Bullseye Event](./cards/webp/pxr_s94_t09.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-T09) *Brainstorm 3, salvage lvl equal to characters milled.* 
@@ -57,7 +57,7 @@ Last but not least, having to access to stockswap before lv3 is always a treat. 
 
 At first glance this isn't a very exciting finisher, but it comes with many perks. The on-play effect means that we'll always find our cx or dig for a stockswap or bully event. Icytail-type finishers is famous for being able to ignore the opponent's compression. Interestingly, Buzz & Jessie also guarantee at least a burn 2 despite being an icytail finisher so we will always have reach even if 0cxs are milled, such as against a stockswapped deck with few cxs. Overall, it is just a flexible and efficient finisher that works into any deckstate.
 
-### The lv0s
+### The Lv0s
 [![Lv0 Buzz & Woody Riki](./cards/webp/pxr_s122_069.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-069) *On play or on waiting room, pay 1 clock top deck, check 5 add 1.*
  
 One of the most amazing riki profile so far, there are two separate trigger timings and this card can mill up to 10 cards on its own. We can also add events off the effect. Incredible design by Bushiroad.
