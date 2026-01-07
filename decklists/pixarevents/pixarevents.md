@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" href="../../style.css">
-
 # Pixar Events (Door / Bar)
 Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wish that maybe Weiss is a bit more interactive, maybe bully your opponent a little bit and make them pay for being greedy? Well with this event focused Pixar deck you can that while also brainstorming every turn, gaining an obscene amount of resources, and milling out every turn. 
 
