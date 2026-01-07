@@ -11,5 +11,3 @@ body {
     max-width: 75em;
     padding: 0 1em;
 }
-
-img[src*='#right'] { width: 200px; }
