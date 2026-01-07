@@ -1,7 +1,7 @@
 ---
 title: Pixar Events (Door / Bar)
 ---
-Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wish that maybe Weiss is a bit more interactive, maybe bully your opponent a little bit and make them pay for being greedy? Well with this event focused Pixar deck you can that while also brainstorming every turn, gaining an obscene amount of resources, and milling out every turn. 
+Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wish that maybe Weiss is a bit more interactive, maybe bully your opponent a little and make them pay for being greedy? Well with this event focused Pixar deck you can that while also brainstorming every turn, gaining an obscene amount of resources, and milling out every turn. 
 
 Usually events are tricky to play Weiss Schwarz because there are few ways to get them into hand other than drawing them for turn or using a combo that adds a specific event. Thankfully, the Toy Story 30th Anniversary set added more ways to dig for them and it also comes with new exciting events that either helps with consistency or allows us to bully the opponent.
 
