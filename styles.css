@@ -1,13 +1,55 @@
-/* Style for img and linked-img with caption (230px cards) */
-p:has(> a + em),
-p:has(> img + em) {
-   display: grid;
-   grid-auto-flow: column;
-   grid-template-rows: auto auto;
-   grid-template-columns: 375px; /* bigger room for single card caption */
-   column-gap: 0.5em;
+/* Overwrite style page size*/
+.wrapper {
+    max-width: calc(1000px - (30px * 2));
 }
 
+strong{
+    font-weight: 600;
+}
+
+/* Style for img and linked-img with caption (230px cards) */
+p:has(> a:first-child + em),
+p:has(> img:first-child + em) {
+   display: flex;
+   align-items: end;
+   flex-wrap: wrap;
+}
+
+p:has(a, img):has(em) img {
+    max-width: inherit;
+}
+
+/* Text to the right of a single img */
+p:has(a, img) em {
+   font-size: 0.85em;
+   flex-basis: 230px;
+   max-width: 30em;
+   flex-grow: 1;
+}
+
+/* Text below images (for group) */
+.group-caption {
+   display:inline-block;
+   max-width: 50em;
+}
+
+p:has(> a + em) em,
+p:has(> img + em) em {
+    margin-left: 0.5em;
+}
+
+
 p:has(> a + em + :nth-last-child(n+1)) {
-      grid-template-columns: repeat(4, 230px);
+      display: grid;
+      grid-auto-flow: column;
+      grid-template-rows: auto auto;
+      grid-template-columns: repeat(auto-fit, minmax(230px, max-content));
+      column-gap: 1em;
+      align-items: start;
+}
+
+p:has(> a + em + :nth-last-child(n+1)) em {
+   width: 300px;
+   max-width: 100%;
+   margin: 0;
 }
