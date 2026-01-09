@@ -20,7 +20,7 @@ p:has(> img:first-child + em) {
 }
 
 /* Text to the right of a single img */
-p:has(a, img) em {
+p:has(a img, img) em {
     font-size: 0.85em;
     flex-basis: 230px;
     max-width: 30em;
