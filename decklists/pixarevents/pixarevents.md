@@ -49,7 +49,7 @@ BRAINSTORM - Flip over the top 3 cards of your deck, then send them to Waiting R
 
 **3x** \| Bullseye is a [**Tornado**](https://en.ws-tcg.com/cardlist/?cardno=AB/W31-E098) profile which makes it very easy to loop combo or add 0s. While we do play a lot of events, the chance of not milling any character is only ~12%.
 
-Deckspeed good. 
+Overall, deckspeed good. 
 
 [![Lv2 Duke Caboom Event](./cards/webp/pxr_s122_095.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-095)
 *<strong>(U) 2/1 Event</strong><br>
