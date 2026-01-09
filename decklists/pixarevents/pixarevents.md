@@ -5,9 +5,9 @@ author: Shoty
 date: 2026-01-08
 permalink: decklists/pixarevents/
 ---
-Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wish that maybe Weiss is a bit more interactive, maybe allows you bully your opponent a little and make them pay for being greedy? Lucky for you, with this event focused Pixar deck you can have some fun while also brainstorming every turn, milling out every turn, and sitting on an obscene amount of resources. 
+Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wish that maybe Weiss is a bit more interactive, maybe allows you to bully your opponent a little and make them pay for being greedy? Lucky for you, with this event focused Pixar deck you can have some fun while also brainstorming every turn, milling out every turn, and sitting on an obscene amount of resources. 
 
-Usually events are tricky to play Weiss Schwarz because there are few ways to get them into hand. Most decks rely on draws at the start of turn or uses combos that add a specific event. Thankfully, the Toy Story 30th Anniversary set offers more ways to dig for them along with a bunch of exciting events to play with.
+Usually events are tricky to play with in Weiss Schwarz because there are few ways to get them into hand. Most decks rely on draws at the start of turn or uses combos that add a specific event. Thankfully, the Toy Story 30th Anniversary set offers more ways to dig for them along with a bunch of exciting events to play with.
 
 [![Pixar Event Deck](./cards/7C0L9.png)](https://decklog-en.bushiroad.com/ja/view/7C0L9)
 
@@ -74,7 +74,7 @@ Luckily, this deck generates up to 6 stock and 3 hand a turn + whatever the brai
 *<strong>(U) 2/3 Event</strong><br>
 Your opponent sends all of their Stock to Waiting Room, then puts an equal number of cards from the top of their deck into Stock. Choose up to 1 character in your Waiting Room, add it to hand.*
 
-Last but not least, having to access to stockswap before level 3 is always a treat. Yes it's not [**buns**](https://en.ws-tcg.com/cardlist/?cardno=BD/W54-E065) but our opponent must always respect the stockswap, we also generate enough stock to be able to afford it easily. The bonus of salvage on play makes it hand neutral and can grab a finisher when going for game or loop combo at level 2. This deck plays the yellow event from the previous set, but the same profile also got reprinted in red. Playing the yellow event here is important since we need the color for our level 1 tornado event.
+Last but not least, having access to stockswap before level 3 is always a treat. Yes it's not [**buns**](https://en.ws-tcg.com/cardlist/?cardno=BD/W54-E065) but our opponent must always respect the stockswap, we also generate enough stock to be able to afford it easily. The bonus of salvage on play makes it hand neutral and can grab a finisher when going for game or loop combo at level 2. This deck plays the yellow event from the previous set, but the same profile also got reprinted in red. Playing the yellow event here is important since we need the color for our level 1 tornado event.
 
 ### The Finisher - Buzz & Jessie
 [![Lv3 Buzz & Jessie Finisher](./cards/webp/pxr_s122_039.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-039)
@@ -82,7 +82,7 @@ Last but not least, having to access to stockswap before level 3 is always a tre
 AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.<br>
 AUTO - {CX Combo} [Discard 2 cards] When this attacks, if you have the Bar CX (065) in your CX Area, you may pay cost. If you do, send the bottom 4 cards of your opponent's deck to Waiting Room, then deal X damage to your opponent. X equals the number of Level 0 or lower cards sent to Waiting Room by this effect +2.*
 
-Instead of going for an explosive finisher, I've found that something more consistent is best for this deck. At first glance Buzz & Jessie isn't a very exciting, but upon a closer look it comes with many perks. The on-play effect means that we'll always find our CX or enable us to dig for an event, such as stockswap or bully, while also going hand neutral to offset the combo cost.
+Instead of going for an explosive finisher, I've found that something more consistent is best for this deck. At first glance Buzz & Jessie isn't very exciting, but upon a closer look it comes with many perks. The on-play effect means that we'll always find our CX or enable us to dig for an event, such as stockswap or bully, while also going hand neutral to offset the combo cost.
 
 [**Icytail-type**](https://en.ws-tcg.com/cardlist/?cardno=SHS/W56-E081) finishers are famous for being able to ignore the opponent's compression. Interestingly, Buzz & Jessie guarantees at least a burn 2 despite being an icytail finisher so we will always have reach even if no CXs are milled, such as against a stockswapped deck with few CXs. Performing a stockswap  → triple-finisher does cost 9 stock but remember that we can generate 6 stock a turn with few drawbacks. Overall, it is just a flexible and efficient finisher that works well into any deckstate.
 
@@ -98,7 +98,7 @@ One of the most amazing [riki](https://ws-tcg.com/cardlist/?cardno=LB/W21-065) p
 AUTO - When this is placed on stage from hand, this turn, this gets +X power. X equals the number of your opponent's characters times 1000.<br>
 AUTO - (1) During the turn this was placed on stage from hand, when this card's battle opponent is Reversed, you may pay cost. If you do, reveal the top 2 cards of your deck. Your opponent choose 1 character or Event from among them, you add it to hand, and send the rest to Waiting Room.*
 
-Sheep a solid beater that also provides some hand advantage and milling. Our sheep can grow quite large, allowing us to run over most level 1 combos if we can’t field triple ourselves.
+Sheep is a solid beater that also provides some hand advantage and milling. Our sheep can grow quite large, allowing us to run over most level 1 combos if we can’t field triple ourselves.
 
 [![Lv0 Mater Riko](./cards/webp/pxr_s94_t44s.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-T44S)
 *<strong>(TD) 0/0 Mater (PIXAR)</strong><br>
@@ -139,7 +139,7 @@ AUTO - When this is placed on stage from hand, you may Heal 1.*
 
 Pretty basic ep-healers are our options here. Woody & Friends is easier to use but sometimes it can be hard to have the color condition. Ducky & Bunny is on red so we won't miss color, but its ep condition of needing 6 events can be trickier to use.
 
-It may not be immediately obvious but it is rather difficult to sculpt these eps to hand. We can't grab them reliably with the level 1 combo and unfortunately Pixar does not have access to a [**helmet**](https://en.ws-tcg.com/cardlist/?cardno=HOL/W91-TE100) profile, so our best option is to hit brainstorm or trigger a gate. As a result, spamming heal at level 2 is quite difficult so please keep that in mind if you're going for that gameplan! 
+It may not be immediately obvious but it is rather difficult to sculpt these eps to hand. We can't grab them reliably with the level 1 combo and unfortunately Pixar does not have access to a [**helmet**](https://en.ws-tcg.com/cardlist/?cardno=HOL/W91-TE100) profile, so our best option is hitting brainstorm or triggering a gate. As a result, spamming heal at level 2 is quite difficult so please keep that in mind if you're going for that gameplan! 
 
 #### And that is all the cards for the deck!
 
