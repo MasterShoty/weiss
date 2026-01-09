@@ -126,7 +126,7 @@ Woody is just a basic CX swap, but the ability to check 2 rearrange can set up h
 
 Luca allows us to dig for a gate because slamming a CX every turn is how you win in Weiss. The ability to pay 2 to freefresh can sometimes come up but very rarely since our level 1 combo requires a waiting room.
 
-### The early-plays
+### The Early-Plays
 [![Lv3 Woody & Friends](./cards/webp/pxr_s94_003.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-003)
 *<strong>(RR) 3/2 Woody & Jessie & Bullseye (PIXAR)</strong><br>
 CONT - If you have 4 or more \<PIXAR\> characters, this gets -1 Level in hand.<br>
@@ -143,7 +143,7 @@ It may not be immediately obvious but it is rather difficult to sculpt these eps
 
 #### And that is all the cards for the deck!
 
-## In summary
+## In Summary
 This event-focused Pixar deck relies heavily on the level 1 combo to generate an excess amount of stock while also being able to maintain hand. This surplus of stock is the fuel for our brainstorm 6 which, in turn, will convert to even more resources along with *deckspeed* as a bonus. Our level 1 events make it a breeze to loop combo without costing stock while also offering some more *deckspeed*. In addition, the flexibility of our riki timing means that we can always tri-lane going second and still guarantee playables with low 0s count - this effect doubles as more *deckspeed* too! Thanks to all of these *deckspeed*, we can mill out very quickly despite playing a greedy advantage combo. This can make our deck 2 very compressed, depending on how well the combo's top-check goes, while still decking out at the same pace as a mill combo. 
 
 There may be a few hiccups when piloting the deck for the first time due to its three-color setup, and the high speed at which you are going through the deck can occasionally lead to awkward situations. However, in the midgame, those extra resources can be traded to remove important pieces from your opponent’s board or converted into even more resources (ie. compression). While our finisher isn't the star of the show, it offers reliability and synergizes with an event-heavy deck well. Technically, the Buzz & Jessie finisher can flip the game from low-to-mid level 2 for some good ol' Weiss Schwarz fun, but at the very least, it will kill from level 3 consistently, probably.
