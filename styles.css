@@ -3,34 +3,34 @@
     max-width: calc(1000px - (30px * 2));
 }
 
-strong{
+strong {
     font-weight: 600;
+}
+
+p:has(img.middle) {
+    text-align: center;
 }
 
 /* Style for img and linked-img with caption (230px cards) */
 p:has(> a:first-child + em),
 p:has(> img:first-child + em) {
-   display: flex;
-   align-items: end;
-   flex-wrap: wrap;
-}
-
-p:has(a, img):has(em) img {
-    max-width: inherit;
+    display: flex;
+    align-items: end;
+    flex-wrap: wrap;
 }
 
 /* Text to the right of a single img */
 p:has(a, img) em {
-   font-size: 0.85em;
-   flex-basis: 230px;
-   max-width: 30em;
-   flex-grow: 1;
+    font-size: 0.85em;
+    flex-basis: 230px;
+    max-width: 30em;
+    flex-grow: 1;
 }
 
 /* Text below images (for group) */
 .group-caption {
-   display:inline-block;
-   max-width: 50em;
+    display:inline-block;
+    max-width: 50em;
 }
 
 p:has(> a + em) em,
