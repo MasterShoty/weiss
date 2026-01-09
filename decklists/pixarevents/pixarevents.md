@@ -139,7 +139,7 @@ AUTO - When this is placed on stage from hand, you may Heal 1.*
 
 Pretty basic ep-healers are our options here. Woody & Friends is easier to use but sometimes it can be hard to have the color condition. Ducky & Bunny is on red so we won't miss color, but its ep condition of needing 6 events can be trickier to use.
 
-It may not be immediately obvious but it is rather difficult to sculpt these eps to hand. We can't grab them reliably with the level 1 combo and unfortunately Pixar does not have access to a [helmet](https://en.ws-tcg.com/cardlist/?cardno=HOL/W91-TE100) profile, so our best option is to hit brainstorm or trigger a gate. As a result, spamming heal at level 2 is quite difficult so please keep that in mind if you're going for that gameplan! 
+It may not be immediately obvious but it is rather difficult to sculpt these eps to hand. We can't grab them reliably with the level 1 combo and unfortunately Pixar does not have access to a [**helmet**](https://en.ws-tcg.com/cardlist/?cardno=HOL/W91-TE100) profile, so our best option is to hit brainstorm or trigger a gate. As a result, spamming heal at level 2 is quite difficult so please keep that in mind if you're going for that gameplan! 
 
 #### And that is all the cards for the deck!
 
