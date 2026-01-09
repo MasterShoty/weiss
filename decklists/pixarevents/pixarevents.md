@@ -5,9 +5,9 @@ author: Shoty
 date: 2026-01-08
 permalink: decklists/pixarevents/
 ---
-Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wish that maybe Weiss is a bit more interactive, maybe allows you to bully your opponent a little and make them pay for being greedy? Lucky for you, with this event focused Pixar deck you can have some fun while also brainstorming every turn, milling out every turn, and sitting on an obscene amount of resources. 
+Are you sick of these decks that brainstorm twice every turn, generate infinite resources, then mill out and sit on their compression without any consequences? Have you ever wished that maybe Weiss is a bit more interactive, maybe allows you to bully your opponent a little and make them pay for being greedy? Lucky for you, with this event focused Pixar deck you can have some fun while also brainstorming every turn, milling out every turn, and sitting on an obscene amount of resources. 
 
-Usually events are tricky to play with in Weiss Schwarz because there are few ways to get them into hand. Most decks rely on draws at the start of turn or uses combos that add a specific event. Thankfully, the Toy Story 30th Anniversary set offers more ways to dig for them along with a bunch of exciting events to play with.
+Usually events are tricky to play with in Weiss Schwarz because there are few ways to get them into hand. Most decks rely on draws at the start of turn or use combos that add a specific event. Thankfully, the Toy Story 30th Anniversary set offers more ways to dig for them along with a bunch of exciting events to play with.
 
 [![Pixar Event Deck](./cards/7C0L9.png)](https://decklog-en.bushiroad.com/ja/view/7C0L9)
 
