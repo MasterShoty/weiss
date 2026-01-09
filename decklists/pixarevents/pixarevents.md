@@ -179,7 +179,7 @@ I always try to stock with the first combo because it's a clean stock that won't
 Sure, there are still strong options such as the level 1 Riko event to supplement the deck. I've personally tested a version with 18 events but at a certain point it feels like overkill, especially considering that we do need level 0 characters in waiting room to salvage with the combo.
 
 #### Why don't you play the new [Bo & Woody](https://ws-tcg.com/cardlist/?cardno=PXR/S122-072) finisher?
-That is a finisher worth considering. I went with Buzz & Jessie because I needed enough green for the bully event. Buzz & Jessy is also slightly cheaper while also being able to consistently go for game. There is nothing I hate more in Weiss Schwarz than fielding triple finisher and not having the right cx in hand. Feel free to swap out the finisher and up your green ratio somewhere else to experiment.
+That is a finisher worth considering. I went with Buzz & Jessie because I needed enough green for the bully event. Buzz & Jessy is also slightly cheaper while also being able to consistently go for game. There is nothing I hate more in Weiss Schwarz than fielding triple-finisher and not having the right cx in hand. Feel free to swap out the finisher and up your green ratio somewhere else to experiment.
 
 #### I'm missing my brainstorms please help.
 Git gud. Don't be afraid to salvage a spare copy to have the option to double brainstorm next turn, in fact, you'll find yourself doing that a lot. The extra brainstorm can also be used as sac cost for the bully event at level 2. Riko is a good way to loop brainstorm as well if you have spare hand. 
