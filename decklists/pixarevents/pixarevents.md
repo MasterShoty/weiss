@@ -109,7 +109,7 @@ AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost
 AUTO - When this is placed on stage from hand, if you have 2 or more other \<PIXAR\> characters, you may draw 1 card. If you do, discard 1 card.<br>
 AUTO - [Discard 1 Climax] When this is placed on stage from hand, you may pay cost. If you do, choose 1 \<PIXAR\> character from your Waiting Room, and add it to hand.*
 
-Mater is a beloved [Riko](https://en.ws-tcg.com/cardlist/?cardno=LSS/WE27-E19) profile, mainly used to loop brainstorms or filter for level 0s. Our chances of revealing a level 1 is roughly 50/50 in this deck, so it is also a decent way to loop combo if your brainstorm misses.
+Mater is a beloved [**Riko**](https://en.ws-tcg.com/cardlist/?cardno=LSS/WE27-E19) profile, mainly used to loop brainstorms or filter for level 0s. Our chances of revealing a level 1 is roughly 50/50 in this deck, so it is also a decent way to loop combo if your brainstorm misses.
 
 Mike Wazowski is a very nice double filter that also offers some draw. We will be triggering bars so having the ability to grab a specific character from waiting room would come up often. I always like to salvage this off combo if able.
 
