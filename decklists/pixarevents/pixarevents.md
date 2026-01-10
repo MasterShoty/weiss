@@ -2,7 +2,7 @@
 layout: post
 title: Pixar Events (Door / Bar)
 author: Shoty
-date: 2026-01-08
+date: 2026-01-09
 permalink: decklists/pixarevents/
 ---
 Are you sick of these decks that brainstorm twice every turn, generate infinite resources, mill out and then sit on their compression without any consequences? Have you ever wished that maybe Weiss Schwarz is a bit more interactive, maybe allow you to bully your opponent a little and make them pay for being greedy? Lucky for you, with this event focused Pixar deck you can have all that fun while also brainstorming every turn, milling out every turn, and sitting on an obscene amount of resources. 
@@ -124,7 +124,7 @@ AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pa
 AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your other \<PIXAR\> characters.<br>
 AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.*
 
-**1x** \| Woody is just a basic CX swap, but the ability to check 2 rearrange can set up hits for our level 1 combo.
+**1x** \| Woody is just a basic CX swap, but the ability to check 2 rearrange can set up hits for our level 1 combo or decide between brainstorming vs milling with an event.
 
 **1x** \| Luca allows us to dig for a Door because slamming a CX every turn is how you win in Weiss. The ability to pay 2 to freefresh can sometimes come up but very rarely since our level 1 combo requires a waiting room.
 
