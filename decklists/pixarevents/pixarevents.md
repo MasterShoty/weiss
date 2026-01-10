@@ -36,7 +36,7 @@ ACT - BRAINSTORM [(1) Rest this] If you have another {Vanilla 0/0 Rex - 058}, fl
 Experienced players can already imagine know how broken brainstorm 6 is. Compared to the standard brainstorm 4, one stock can convert to 50% more resources, 50% more mill, and \~28% higher chance on hitting brainstorm so that we won't be sad and broke and lonely. As such, brainstorming 6 every turn is what we will be using our abundance of stock on in order to loop the level 1 combo. Any additional hand from brainstorming will, in turn, be converted to stock to form a vicious cycle of card advantage. By the way, the Trixie brainstorm also bonds to the vanilla T-rex, letting us fetch it from deck to always meet the brainstorm condition. This effect also doubles as a ditch-out or hand filter for an early body, as a cherry on top.
 
 ### The Events
-As mentioned earlier, this deck needs to play a lot of events so that we can take advantage of the Ducky & Bunny combo. In total my build plays 15 events which feels like a sweet-spot, it is around 30% to hit on deck one, but feel free to play more or less depending on how greedy you are. It's worth noting that the chance to reveal an event increases over the course of the game as more 0s are thrown into stock.
+As mentioned earlier, this deck needs to play a lot of events so that we can take advantage of the Ducky & Bunny combo. In total my build plays 15 events which feels like a sweet-spot (~30% hitrate on deck one), but feel free to play more or less depending on how greedy you are. It's worth noting that the chance to reveal an event increases over the course of the game as more 0s are thrown into stock.
 
 [![Lv1 Forky Event](./cards/webp/pxr_s122_092.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-092)
 *<strong>(R) 1/0 Event</strong><br>
@@ -84,9 +84,9 @@ Your opponent sends all of their Stock to Waiting Room, then puts an equal numbe
 AUTO - When this is placed on stage from hand, look at up to 3 cards from the top of your deck, choose up to 1 card among them, add it to hand, and send the rest to Waiting Room.<br>
 AUTO - {CX Combo} [Discard 2 cards] When this attacks, if you have the Bar CX (065) in your CX Area, you may pay cost. If you do, send the bottom 4 cards of your opponent's deck to Waiting Room, then deal X damage to your opponent. X equals the number of Level 0 or lower cards sent to Waiting Room by this effect +2.*
 
-**4x** \| Instead of going for an explosive finisher, I've found that something more consistent and easy to set up is best for this deck. At first glance Buzz & Jessie isn't very exciting, but upon a closer look it comes with many perks. The on-play effect means that we'll always find our CX or enable us to dig for another finisher or an event (such as stockswap or bully event), while also going hand neutral to offset the combo cost. To be honest, I initially picked this finisher because it's a Bar trigger and because I needed green for the bully event, but I've come to really appreciate the consistency it provides.
+**4x** \| Instead of going for an explosive finisher, I've found that something more consistent and easy to set up is best for this deck. At first glance Buzz & Jessie isn't very exciting, but upon a closer look it comes with many perks. The on-play effect means that we'll always find our CX or enable us to dig for another finisher or grab an event (such as stockswap or bully event), all while going hand neutral to offset the combo cost. To be honest, I initially picked this finisher because it's a Bar trigger and because I needed green for the bully event, but I've come to really appreciate the consistency it provides.
 
-[**Icytail-type**](https://en.ws-tcg.com/cardlist/?cardno=SHS/W56-E081) finishers are famous for being able to ignore the opponent's compression. Interestingly, Buzz & Jessie is a unique in that it guarantees at least a burn 2 despite being an icytail finisher so we will always have reach even if no CXs are milled, such as against a stockswapped deck with few CXs. Performing a stockswap  → triple-finisher does cost 9 stock but remember that we can generate 6 stock a turn with few drawbacks. Overall, it is just a flexible and efficient finisher that works well into any deckstate.
+[**Icytail-type**](https://en.ws-tcg.com/cardlist/?cardno=SHS/W56-E081) finishers are famous for being able to ignore the opponent's compression. Interestingly, Buzz & Jessie is a unique in that it guarantees at least a burn 2 despite being an icytail finisher so we will always have reach even if no CXs are milled, such as against a stockswapped deck with few CXs. Performing a stockswap  → triple-finisher does cost 9 stock but remember that we can generate 6 stock a turn with few drawbacks. Overall, Buzz & Jessie just a flexible and efficient finisher that works well into any deckstate.
 
 ### The Lv0s
 [![Lv0 Buzz & Woody Riki](./cards/webp/pxr_s122_069.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-069) 
@@ -124,7 +124,7 @@ AUTO - [(1) Discard 1 Climax] When this is placed on stage from hand, you may pa
 AUTO - [(1) Discard 1 card] When this is placed on stage from hand, you may pay cost. If you do, look at up to X cards from the top of your deck, choose up to 1 card from among them, add it to hand, and send the rest to Waiting Room. X equals the number of your other \<PIXAR\> characters.<br>
 AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, shuffle all cards from your Waiting Room into your deck.*
 
-**1x** \| Woody is just a basic CX swap, but the ability to check 2 rearrange can set up hits for our level 1 combo or decide between brainstorming vs milling with an event.
+**1x** \| Woody is just a basic CX swap. The second ability to check 2 rearrange can set up hits for our level 1 combo or decide between brainstorming vs milling with an event.
 
 **1x** \| Luca allows us to dig for a Door because slamming a CX every turn is how you win in Weiss. The ability to pay 2 to freefresh can sometimes come up but very rarely since our level 1 combo requires a waiting room.
 
@@ -139,7 +139,7 @@ AUTO - [Discard 1 card] When this is placed on stage from hand, you may pay cost
 CONT - If you have 6 or more Events in your Waiting Room, this gets -1 Level in hand. CONT - If you have 2 or more other \<PIXAR\> characters, this gets +2000 power.<br>
 AUTO - When this is placed on stage from hand, you may Heal 1.*
 
-**1x, 1x** \| There are only basic early-play healers as our options here. Woody & Friends is easier to use but sometimes it can be hard to have the color condition. Ducky & Bunny is on red so we won't miss color, but its ep condition of needing 6 events can be trickier to use.
+**1x, 1x** \| There are only basic early-play healers as our options here. Woody & Friends is easier to use but sometimes it can be hard to have the color condition. Ducky & Bunny is on red so we won't miss color, but its ep condition of needing 6 events can be tricky to have.
 
 It may not be immediately obvious but it is rather difficult to sculpt these to hand. We can't grab them reliably with the level 1 combo and unfortunately Pixar does not have access to a [**helmet**](https://en.ws-tcg.com/cardlist/?cardno=HOL/W91-TE100) profile, so our best option is hitting brainstorm or triggering a Door. As a result, spamming heal at level 2 is quite difficult so please keep that in mind if you're going for that gameplan! 
 
@@ -176,7 +176,7 @@ That is all I would like to share here about the deck. There are some intricacie
 ### Q&A
 
 #### How often should I stock?
-I always try to stock with the first combo because it's a clean stock that won't be touched, sheep or riki is a good target here. Otherwise, be liberal with stocking if you're getting a draw off top-check. While I'm often happy ending the first combo turn with 4 hand if they're quality cards, I recommend keeping at least 5 cards in hand on later turns so that you can always go for triple if needed, or forgo "clock draw two" since we plus so much already.
+I always try to stock with the first combo because it's a clean stock that won't be touched, sheep and riki are good targets here. Otherwise, be liberal with stocking if you're getting a draw off top-check. While I'm often happy ending the first combo turn with 4 hand if they're quality cards, I recommend keeping at least 5 cards in hand on later turns so that you can always go for triple if needed, or forgo "clock draw two" since we plus so much already.
 
 If you trigger a CX on the first swing then stop stocking so that you have the chance to pay it out. However, at level 2 it can sit 4 stock deep if you're planning to play any of the level 2 events or an early-play heal.
 
