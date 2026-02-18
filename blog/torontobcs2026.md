@@ -39,7 +39,7 @@ Overall I would say that my swiss games were pretty normal, there were a couple 
 
 For the first match I played against a locals which is a little unfortunate. The first thing that stood out is although I went second I only swung once to beat their 4k chaser. The rest of the game was fairly normal with my opponent setting up ainz in deck 1 with 4(?) markers. What pushed the odds in my favor is that my opponent was playing around a lv1 anti-change counter that I didn't play. As a result I got to keep my board for free on the first Ainz turn, then on the follow-up Ainz turn he popped my front-row instead of my back-row to avoid having to side. I ended up finishing the game with double finisher after a minor dmg lead.
 
-**R2: NIK Door/SB 2nd W**
+**R2: NIK Door/Standby 2nd W**
 
 I played against another locals in the second match as well. Interestingly enough I also went second swung once, I think what happened was that I didn't draw any rikis or any mills so I didn't want to over-commit and be stuck at 0 while not being able to answer their lv1 board. My 1/1 1k support came in this matchup to out their triple Modernia + 1.5k assist backrow, I was very happy about that. I was not ahead in dmg this game and was forced to try to go for game while my opponent was at 2-4. I was running low on resources and decided that it was the best time to go for it when I confirmed that I had exactly 4 clean triggers in deck for Enterprise. By going for game at this spot I also avoided any risk of a tap counter. My opponent cancelled a vanilla 3 off refresh then died to a 3, 3, 4 on the first finisher.
 
