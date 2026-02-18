@@ -15,7 +15,7 @@ p:has(img.middle) {
 p:has(> a:first-child + em),
 p:has(> a:first-child),
 p:has(> img:first-child + em),
-p:has(> img:first-child){
+p:has(> img:first-child) {
     display: flex;
     align-items: end;
     flex-wrap: wrap;
@@ -50,8 +50,7 @@ p:has(> a + em + :nth-last-child(n+1)) {
       align-items: start;
 }
 
-p:has(> a + em + :nth-last-child(n+1)) em,
-p:has(> a + :nth-last-child(n+1)) {
+p:has(> a + em + :nth-last-child(n+1)) em {
    width: 300px;
    max-width: 100%;
    margin: 0;
