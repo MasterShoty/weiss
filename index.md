@@ -11,4 +11,8 @@ An event heavy deck that focuses on generating infinite resources with brainstor
 ### Saekano 8 Bar (Coming Soon)
 Pet deck for pet series. Cheat stock & slam cx every turn, build memory compression, set up an expensive finisher that doesn't kill.
 
+## Blog Posts
+
+### [Toronto BCS 2026 (3rd Place)](./blog/torontobcs2026)
+My thoughts and experience playing Azur Lane 8Pants and achieving my first top in Weiss Schwarz
 
