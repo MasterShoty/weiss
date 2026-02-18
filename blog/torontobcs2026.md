@@ -47,11 +47,11 @@ I played against another locals in the second match as well. Interestingly enoug
 
 Would you have guessed it I played against another locals, one of my teammates for the annual community hosted winter trio's event no less. My opponent didn't mulligan any cards at the start of the game so I was a little worried at the start of the game. Unfortunately he didn't cancel and couldn't field kishibes to out my lanes, I level'd myself from 2-4 to kill with double finisher while my opponent is at 3-2.
 
-**R4: HOL 8SB 2nd W**
+**R4: HOL 8 Standby 2nd W**
 
 This was the azki/choco variant instead of polka lv1. This was also the first matchup that I was unfamiliar with but I had confidence that my deck can gatekeep random standby decks. I was able to out their lv1 board by spawning the adachi, and then outing their lv2 board by spawning the stockbomb to remove the Luna. The 1/1 1k support also helps me beat over their choco before backrow assists came out. It felt pretty good ngl to be the one in control of the game against a standby deck. Again, I closed the game with double finisher from 2-6, siding all 3 lanes to avoid the tap counter.  
 
-**R5: TSK 8SB 1st W**
+**R5: TSK 8 Standby 1st W**
 
 This is another matchup that I was very unfamiliar with since I'm only acquainted with various Mjurran variants for slime. In this match I was mostly behind, I wasn't able to out their 2/1 standby combo, ate damage, and only managed to adachi their Benimaru once. I figured that the longer this game goes the worse off I'll be, so I clock-draw to lv3 in order to try for game while my opponent is at 2-3. Unfortunately I only ended up with a single finisher after unsuccessfully trying to mill out a second Enterprise into the waiting room. My opponent unsurprisingly survived as I await my death from the double Benimaru that remained on his board into my empty lanes. My opponent fielded another 2/1 combo (ping 1 stock 1), slammed cx, and went into attack phase and as luck was would have it, both of his Benimaru revealed a cx to only burn for 1, I cancelled the swings for 4s and narrowly escaping defeat - ending up at 3-6. Afterwards I only needed to stick a 2 for game with cx ready hand and it stuck. 
 
@@ -77,7 +77,7 @@ As luck would have it, after clock drawing for turn, my opponent played the firs
 
 Surprisingly this is the first Bang Dream matchup I played today despite it being the dominant deck of the season. There were surprisingly very few Bang Dream decks in the top tables during Swiss as well. I had a strategy coming into the tourney against Bang Dream and it is to tri-lane aggressively turn 2 and taking out non-triggers from my deck during the first combo turn in order to push damage. I think that Bang Dream's weakest point is their lack of sculpting, causing them to often rely on hitting brainstorms in a compressed deck in order to sculpt finisher pieces. Fortunately for me this strategy worked too well and my opponent didn't cancel at all and got shot to lvl2 on turn 3, to then refresh with 6 cxs, and arriving at lv3 shortly after - all while I was still at 1-2 or so. It was a very tragic game, during the final turn he had to heal down from 3-3 with ep-heal + single Tomori. I ended up clocking myself up from mid 2s to do double finisher and winning the match.
 
-**T4: SFN 8Pants 2nd L**
+**T4: SFN 8 Pants 2nd L**
 
 Funnily enough, although Frieren isn't a popular deck to play in EN I had a lot of experience against it because my bf is also playing it for the event. The important thing to note is that their torch counter allows them to mill out of deck 1 very easily and not get punished for leaving clean cards after comboing. As a result the strategy I'm going with is the same one into Bang Dream. For this game in particular I tri-laned with like 2 brainstorm on turn 1, and we were both stuck at 0 so I even did spawner -> stockbomb to out their Himmel JC. Since I have a lot of soul triggers in the deck I also have good side value into their lv1s to avoid torch counter and was able to punish that when he had 3 clean after the first combo turn. While I was ahead, eventually Frieren managed to stabilize thanks to how easy it is to loop their combo. My compensation is that I was able to build up enough resources to go for triple finisher at this point and decided to pull the trigger. 
 
