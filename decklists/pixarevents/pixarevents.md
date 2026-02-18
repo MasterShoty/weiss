@@ -4,7 +4,7 @@ title: Pixar Events (Door / Bar)
 author: Shoty
 date: 2026-01-09
 permalink: decklists/pixarevents/
-description: Deck overview for Pixar Events Deck
+description: Deck overview for Pixar Events 
 ---
 Are you sick of these decks that brainstorm twice every turn, generate infinite resources, mill out and then sit on their compression without any consequences? Have you ever wished that maybe Weiss Schwarz is a bit more interactive, maybe allow you to bully your opponent a little and make them pay for being greedy? Lucky for you, with this event focused Pixar deck you can have all that fun while also brainstorming every turn, milling out every turn, and sitting on an obscene amount of resources. 
 
