@@ -11,15 +11,11 @@ p:has(img.middle) {
     text-align: center;
 }
 
-p:has(> img) {
-    display: flex;
-    align-items: end;
-    flex-wrap: wrap;
-}
-
 /* Style for img and linked-img with caption (230px cards) */
 p:has(> a:first-child + em),
-p:has(> img:first-child + em) {
+p:has(> a:first-child),
+p:has(> img:first-child + em),
+p:has(> img:first-child){
     display: flex;
     align-items: end;
     flex-wrap: wrap;
@@ -54,7 +50,8 @@ p:has(> a + em + :nth-last-child(n+1)) {
       align-items: start;
 }
 
-p:has(> a + em + :nth-last-child(n+1)) em {
+p:has(> a + em + :nth-last-child(n+1)) em,
+p:has(> a + :nth-last-child(n+1)) {
    width: 300px;
    max-width: 100%;
    margin: 0;
