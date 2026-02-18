@@ -11,7 +11,7 @@ It is currently 2 days after the Toronto BCS event for the 25/26 season where I 
 
 [![Azur Lane 8 Pants Deck](./cards/5JERV.png)](https://decklog-en.bushiroad.com/ja/view/5JERV)
 
-### About Me
+### Introduction
 I started playing Weiss Schwarz some time during the summer of 2023 because it has the cards of my favorite series Saekano and fell in love with the game since then. I didn't have much prior card game experience and still vividly remember my 2023 BCS experience playing Saekano into Alice and Gura meta. For the 24/25 BCS season I played Bocchi (x-3 drop) in Philly and KanataMarine (x-2) in Toronto but did not successfully make any top-cuts. In autumn of last year (2025) I got 4th place with my team in Toronto BCF trios event using a Bunnygirl deck I kindly borrowed. For the 25/26 season I was only going to play in Toronto so I really want to make it count although I'm not the biggest fan of the current EN meta.
 
 #### Preparations
