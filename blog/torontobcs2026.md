@@ -4,6 +4,7 @@ title: Toronto BCS 2026
 author: Shoty
 date: 2026-02-17
 permalink: blog/torontobcs2026/
+excerpt: Shoty yaps about her experience getting 3rd place at Toronto BCS 2026 with Azur Lane 8 Pants
 ---
 
 It is currently 2 days after the Toronto BCS event for the 25/26 season where I got 3rd place. I am still very sick from a flu that I got 3 days before the tournament but I really want to get my thoughts down while the memories are still fresh in my mind. Everything that you're going to be reading about is off the dome so please excuse the bad writing since I didn't get anyone to help edit this either.
