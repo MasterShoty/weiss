@@ -6,7 +6,7 @@ date: 2026-02-17
 permalink: blog/torontobcs2026/
 ---
 
-It is 2 days after the Toronto BCS event for the 25/26 season where I got 3rd place. I am still currently very sick from a flu that I got 3 days before the tourney but I really want to get my thoughts down while the memories are still fresh in my mind. Everything that you're going to be reading about is off the dome so please excuse the bad writing since I didn't get anyone to help edit this either.
+It is currently 2 days after the Toronto BCS event for the 25/26 season where I got 3rd place. I am still very sick from a flu that I got 3 days before the tournament but I really want to get my thoughts down while the memories are still fresh in my mind. Everything that you're going to be reading about is off the dome so please excuse the bad writing since I didn't get anyone to help edit this either.
 
 [![Azur Lane 8 Pants Deck](./cards/5JERV.png)](https://decklog-en.bushiroad.com/ja/view/5JERV)
 
@@ -91,6 +91,7 @@ The game started and I didn't feel any pressure at all. Don't get me wrong I am 
 
 As the game went on, I cancelled a couple 4s and 5s as I slowly push them to level 3. My opponent did get a lucky triple cancel in deck 2 so they managed to stabilize a bit after playing with only 2 hand for quite some time. The critical point came when Carson is at 3-2 with ~14/15 stock, enough for triple burn + combo while I was at 2-0 with ~12 stock myself. The biggest problem for Carson is that their only stockswap got hit into clock with no way to get it. I wasn't sure if it's nerves, sadness, or dread or all of the above but Carson miscounted the amount of cxs I have left in my deck and decided to stall for another turn to swing with dual-lanners. I was way less compressed and only had 1 cx left in deck so I took a 4 from the first swing. I was then given the easy decision to go for game with fumio + triple finisher and walked out of that match as the victor. I knew that I needed a miracle to win against TRV and I got it.
 
+![Top 8 Mat Pic](./cards/top8mat.webp){: .middle}
 
 ### Afterthoughts
 It's honestly insane that I managed to secure an invite to Worlds, being top 2 of a regionals was this close within my grasp too. I do have to confess that I don't actually know the Azur Lane series well at all. However, I did buy vol2 in jp when it came out because boat girls are cute. I'm not trying to prove a point or represent this set or anything, so I apologize if some people were hoping for that. I'm also not trying to be anti-meta or anything for not playing t0 decks like BangDream or Nikke, but I do have a soft spot for good decks and cards that people might overlook - Band Dream mirrors are also mind-numbing. For important tournaments like BCS I will only play deck that I think gives me a winning shot and Azur Lane 8 Pants happened to be the one this season. 
