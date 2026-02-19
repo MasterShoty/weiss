@@ -41,4 +41,4 @@ gem "kramdown-parser-gfm"
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Dev
-gem 'jekyll-target-blank'
+gem "jekyll-target-blank"
