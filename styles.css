@@ -13,12 +13,18 @@ p:has(img.middle) {
 
 /* Style for img and linked-img with caption (230px cards) */
 p:has(> a:first-child + em),
-p:has(> a:first-child),
-p:has(> img:first-child + em),
-p:has(> img:first-child) {
+p:has(> img:first-child + em) {
     display: flex;
     align-items: end;
     flex-wrap: wrap;
+}
+
+/* Don't wrap images without description text */
+p:has(> a:first-child),
+p:has(> img:first-child) {
+    display: flex;
+    align-items: end;
+    flex-wrap: nowrap;
 }
 
 /* Text to the right of a single img */
