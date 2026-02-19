@@ -20,6 +20,7 @@ Tbh I was this close to giving up and just playing some Lycoris Recoil pile beca
 [![Lv0 Stockbomb](./cards/S119-E014S.webp)](https://en.ws-tcg.com/cardlist/?cardno=AZL/S119-E014S)
 [![Lv0 Spawner](./cards/S119-E015S.webp)](https://en.ws-tcg.com/cardlist/?cardno=AZL/S119-E015S)
 [![Lv1 1k Assist](./cards/S119-E113.webp)](https://en.ws-tcg.com/cardlist/?cardno=AZL/S119-E113)
+{: .group-no-caption}
 
 Another reason why this deck is good in the current atmosphere is because Azurlane has a lot of good tools such as adachi to counter early-plays which are very popular currently and a stockbomb with a very good pseudo bounce effect to play around tap-counters from Nikke. Plain adachi profiles are usually awkward to play but the Valiant spawner allows us to play it while still maintaining consistency. Honestly that card is what allows the deck to perform its gameplan so consistently all the way from lv0 to lv3 and is such an overlooked card. If you don't believe me, the best Weiss Schwarz deck builder I know says it himself that "\[Valiant\] is the best card in the deck", please check out Steve’s deck profile video on his channel I'm playing that exact build.
 

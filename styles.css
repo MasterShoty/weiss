@@ -20,8 +20,7 @@ p:has(> img:first-child + em) {
 }
 
 /* Don't wrap images without description text */
-p:has(> a:first-child + img),
-p:has(> img:first-child) {
+.group-no-caption {
     display: flex;
     align-items: end;
     flex-wrap: nowrap;
@@ -46,7 +45,7 @@ p:has(> img + em) em {
     margin-left: 0.5em;
 }
 
-
+/* Styling for grid images w/ caption on each of them */
 p:has(> a + em + :nth-last-child(n+1)) {
       display: grid;
       grid-auto-flow: column;
