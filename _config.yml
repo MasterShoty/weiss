@@ -27,7 +27,8 @@ remote_theme: "jekyll/minima@bf9ef98"
 minima:
   skin: auto
   hide_site_feed_link: true
-
+plugins:
+  - jekyll-target-blank
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
