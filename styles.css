@@ -20,7 +20,7 @@ p:has(> img:first-child + em) {
 }
 
 /* Don't wrap images without description text */
-p:has(> a:first-child),
+p:has(> a:first-child + img),
 p:has(> img:first-child) {
     display: flex;
     align-items: end;
