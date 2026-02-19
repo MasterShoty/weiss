@@ -77,7 +77,7 @@ Your opponent sends all of their Stock to Waiting Room, then puts an equal numbe
 
 **2x** \| Last but not least, having access to stockswap before level 3 is always a treat. Yes it's not [**buns**](https://en.ws-tcg.com/cardlist/?cardno=BD/W54-E065) but a stockswap must always be respected, especially when we generate enough stock to easily afford it. The bonus of salvage on play makes it hand-neutral and can grab a finisher when going for game or loop the advantage combo at level 2. This deck plays the yellow event from the previous set, but the same profile also got reprinted in red. Playing the yellow event here is important since we need the color for our level 1 tornado event.
 
-*"We're cookin'!"*
+*"Anyone can cook!"*
 
 ### The Finisher - Buzz & Jessie
 [![Lv3 Buzz & Jessie Finisher](./cards/webp/pxr_s122_039.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S122-039)
