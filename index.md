@@ -14,5 +14,5 @@ Pet deck for pet series. Cheat stock & slam cx every turn, build memory compress
 ## Blog Posts
 
 ### [Toronto BCS 2026 (3rd Place)](./blog/torontobcs2026)
-My thoughts and experience playing Azur Lane 8Pants and achieving my first top in Weiss Schwarz
+My thoughts and experience playing Azur Lane 8 Pants and achieving my first top in Weiss Schwarz
 
