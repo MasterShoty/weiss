@@ -199,7 +199,7 @@ A big incentive of playing 8 Door is being able to make use of the [**Forky brai
 Sure, there are still many strong options such as the level 1 [**Riko event**](https://ws-tcg.com/cardlist/?cardno=PXR/S122-093) or a 1/1 [**bounce-self/salvage event**](https://ws-tcg.com/cardlist/?cardno=PXR/S122-094) to supplement the deck. I've personally tested a version with 18 events but at a certain point it feels like overkill, especially considering that we still need level 0 characters in the waiting room to salvage with the combo.
 
 #### I'm missing my brainstorms please help.
-Git gud. Don't be afraid to salvage a spare copy to have the option to double brainstorm next turn. In fact, you'll find yourself doing that a lot. The extra brainstorm can also be used as sac cost for the bully event at level 2. Riko is a good way to loop brainstorm as well if you have the spare hand to use. If all else fails, I'm happy taking those cancels in my compressed deck too \^\^
+Git gud. Don't be afraid to salvage a spare copy to have the option to double brainstorm next turn. In fact, you'll find yourself doing that a lot. The extra brainstorm can also be used as sac cost for the bully event at level 2. Riko is a good way to loop brainstorm as well if you have the spare hand to use. If all else fails, I'm happy taking those cancels in my compressed deck too ^^
 
 <br>
 
