@@ -127,7 +127,7 @@ AUTO - (2) When this is placed on stage from hand, you may pay cost. If you do, 
 
 **1x** \| Woody is just a basic CX swap. As a bonus, the second ability to check 2 rearrange can set up hits for our level 1 combo or decide between brainstorming vs milling with an event.
 
-**1x** \| Luca allows us to dig for a Door because slamming a CX every turn is how you win in Weiss. The ability to pay 2 to free-fresh very rarely since our level 1 combo requires a waiting room, but if you're really in a pickle it is there.
+**1x** \| Luca allows us to dig for a Door because slamming a CX every turn is how you win in Weiss. The ability to pay 2 to free-fresh will very rarely come up since our level 1 combo requires a waiting room, but if you're really in a pickle it is there.
 
 ### The Early-Plays
 [![Lv3 Woody & Friends](./cards/webp/pxr_s94_003.webp)](https://ws-tcg.com/cardlist/?cardno=PXR/S94-003)
