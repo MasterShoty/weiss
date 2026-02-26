@@ -88,5 +88,5 @@ I picked `x in 12` because these are important decision points when reaching the
 Chances of being out 4 cxs going first, going second
 Chances of drawing the correct cx by turn 2 going first, going second
 
-## Plussing Zeros {#plussing-zeros)
+## Plussing Zeros {#plussing-zeros}
 There are several probability-based plussing zeros in Weiss such as aqua rikis & coinflips & avatar salami
