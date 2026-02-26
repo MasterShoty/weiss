@@ -51,7 +51,7 @@ Brainstorm is the most common form of mill, and arguably the most important form
 | Brainstorm 4 | 51.4% |  39.9% | 10.5%  | 1.02%  | 0.03%  |
 | Brainstorm 5 | 59.9% |  42.3% | 15.2%  | 2.28%  | 0.14%  |
 | Brainstorm 6 | 67.0% |  42.8% | 19.7%  | 4.05%  | 0.38%  |
-| Double Bs 4  | 78.0% |  40.2% | 27.36% | 8.87%  | 1.46%  |
+| Double bs 4  | 78.0% |  40.2% | 27.36% | 8.87%  | 1.46%  |
 
 For something like double brainstorm 4 knowing the probability of hitting 2 or more (x ≥ 2) is probably more useful, to know this simply sum up everything from the x=2 column to the right (ie. x=2, x=3, and x=4)
 
@@ -62,7 +62,7 @@ For something like double brainstorm 4 knowing the probability of hitting 2 or m
 | Brainstorm 4 | 73.3% |  45.0% | 23.6%  | 4.50%  | 0.26%  |
 | Brainstorm 5 | 81.5% |  41.1% | 30.3%  | 9.08%  | 1.08%  |
 | Brainstorm 6 | 87.4% |  35.5% | 34.5%  | 14.5%  | 2.10%  |
-| Double Bs 4  | 94.5% |  23.3% | 35.7%  | 25.2%  | 8.75%  |
+| Double bs 4  | 94.5% |  23.3% | 35.7%  | 25.2%  | 8.75%  |
 
 Why do so many experienced players say that getting to deck 2 is important? Hopefully this table can demonstrate that quantitatively.
 
