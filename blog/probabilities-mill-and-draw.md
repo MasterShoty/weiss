@@ -43,7 +43,7 @@ Doing some quick maths for the probabilities of hitting one or more cxs `60.7*0.
 
 ## Brainstorm {#brainstorm}
 Brainstorm is the most common form of mill, and arguably the most important form of mill so I will start with it.<br>
-*<sup>(click on images to get redirected to the official card page)</sup>*
+*<sup>I know that there's literally only one way to perform a brainstorm 6 right but it's there because I find it helpful.</sup>*
 
 **Deck 1**
 
