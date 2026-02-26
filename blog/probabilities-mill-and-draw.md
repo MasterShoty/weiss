@@ -11,6 +11,7 @@ description: Common probabilities for milling or drawing that you would often en
 - [Introduction](#introduction)
 - [Brainstorm](#brainstorm)
 - [Mill](#mill)
+- [Draw](#draw)
 - [Plussing Zeros](#plussing-zeros)
 
 ## Introduction {#introduction}
@@ -86,7 +87,9 @@ I picked `x in 12` because these are important decision points when reaching the
 
 ## Mill (cx) {#mill}
 Chances of being out 4 cxs going first, going second
+
+## Draw (cx) {#draw}
 Chances of drawing the correct cx by turn 2 going first, going second
 
 ## Plussing Zeros {#plussing-zeros}
-There are several probability-based plussing zeros in Weiss such as aqua rikis & coinflips & avatar salami
+There are several probability-based plussing zeros in Weiss such as aqua rikis & coinflips & avatar salami. Knowing these probabilities can also help in deckbuilding, for example deciding to play more 1s or higher to hit stockcharge or a coinflip.
