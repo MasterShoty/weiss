@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Probabilities & Numbers
+title: Probabilities - Mill & Draw
 author: Shoty
 date: 2026-02-26
 permalink: blog/probabilities-mill-and-draw/
