@@ -83,12 +83,9 @@ I picked `x in 12` because these are important decision points when reaching the
 - For all you double brainstorm enjoyers out there the chances to whiff on deck 1 is more than 20%, that means that you'll whiff approximately once every 5 games. Conversely, on deck 2 the chance to whiff is actually not that low at 5.5%, that's almost the double the rate of hitting an SSR in UmaMusume, beware!
 - Brainstorm 5 gains significant value over brainstorm 4 in deck 2, with the chances of hitting 2 or more cxs being slightly above 40% vs 30%. That's a third more likely!
 
-
-## Plussing Zeros {#plussing-zeros)
-There are several probability-based plussing zeros in Weiss such as aqua rikis & coinflips & avatar salami
-
-
 ## Mill (cx) {#mill}
 Chances of being out 4 cxs going first, going second
 Chances of drawing the correct cx by turn 2 going first, going second
 
+## Plussing Zeros {#plussing-zeros)
+There are several probability-based plussing zeros in Weiss such as aqua rikis & coinflips & avatar salami
