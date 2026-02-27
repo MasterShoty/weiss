@@ -77,7 +77,8 @@ Why do so many experienced players say that getting to deck 2 is important? Hope
 | 1 in 12      | 33.3% |  33.3% |        |        |        |
 | 4 in 30      | 45.5% |  38.0% | 7.12%  | 0.38%  |        |
 
-I picked `x in 12` because these are important decision points when reaching the end of your deck. As for `4 in 30` it's to represent a "poor" deck 2.
+I picked several `x in 12` because these are important decision points when reaching the end of your deck.<br>
+As for `4 in 30` it's to represent a "poor" deck 2.
 
 **Insights**
 - The chances of hitting brainstorm 4 on deck 1 is basically a coinflip, while the odds increased significantly in your favor in deck 2 (over 40% more likely).
