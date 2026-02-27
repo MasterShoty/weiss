@@ -81,9 +81,9 @@ I picked several `x in 12` because these are important decision points when reac
 As for `4 in 30` it's to represent a "poor" deck 2.
 
 #### Insights
-- The chances of hitting brainstorm 4 on deck 1 is practically a coinflip (**51.4%**), while the odds is increased significantly in your favor in deck 2 (**73.3%**) - it is over 40% more likely.
+- The chances of hitting brainstorm 4 on deck 1 is practically a coinflip (**51.4%**), while the odds is increased significantly in your favor in deck 2 (**73.3%**) - over 40% more likely.
+- Brainstorm 5 gains significant value over brainstorm 4 in deck 2, with the chances of hitting 2 or more cxs being slightly above **40%** vs **30%** - a third more likely.
 - For all you double brainstorm enjoyers out there the chances to whiff on deck 1 is more than **20%**, that means that you'll whiff approximately once every 5 games. Conversely, on deck 2 the chance to whiff is actually not that low at **5.5%**, that's almost the double the rate of hitting an SSR in UmaMusume, beware!
-- Brainstorm 5 gains significant value over brainstorm 4 in deck 2, with the chances of hitting 2 or more cxs being slightly above **40%** vs **30%** - that's a third more likely.
 
 - Even in a "poor" deck 2 the chances of hitting a brainstorm 4 is still close to a coinflip at **45.5%**. This also shows the power of deck 2 compression.
 - In a deck that's `6 in 12`, the chances of hitting 2 or more cxs is quite high at **72.7%**. However, this also means that there is a **27.3%** chance that you will hit 1 or less cxs and is left dealing with a deck that is `5 in 8`. 
