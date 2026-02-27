@@ -46,7 +46,7 @@ Doing some quick maths for the probabilities of hitting one or more cxs `60.7*0.
 Brainstorm is the most common form of mill, and arguably the most important form of mill so I will start with it.<br>
 *<sup>I know that there's literally only one way to perform a brainstorm 6 at the time of this writing, it's there for myself.</sup>*
 
-### Deck 1
+#### Deck 1
 
 | 8 in 50      | x ≥ 1 | x = 1  | x = 2  | x = 3  | x = 4  |
 | -----------  | ----- | ------ | ------ | ------ | ------ |
@@ -57,7 +57,7 @@ Brainstorm is the most common form of mill, and arguably the most important form
 
 For something like double brainstorm 4 knowing the probability of hitting 2 or more (x ≥ 2) is probably more useful, to know this simply sum up everything from the x=2 column to the right (ie. x=2, x=3, and x=4)
 
-### Deck 2
+#### Deck 2
 
 | 8 in 30      | x ≥ 1 | x = 1  | x = 2  | x = 3  | x = 4  |
 | -----------  | ----- | ------ | ------ | ------ | ------ |
@@ -82,7 +82,7 @@ As for `4 in 30` it's to represent a "poor" deck 2.
 
 #### Insights
 - The chances of hitting brainstorm 4 on deck 1 is practically a coinflip (**51.4%**), while the odds is increased significantly in your favor in deck 2 (**73.3%**) - it is over 40% more likely.
-- Even in a "poor" deck 2 the chances of hitting a brainstorm 4 is still close to a coinflip at **45.5%**. This also shows how strong deck 2 compression is.
+- Even in a "poor" deck 2 the chances of hitting a brainstorm 4 is still close to a coinflip at **45.5%**. This also shows the power of deck 2 compression.
 - For all you double brainstorm enjoyers out there the chances to whiff on deck 1 is more than **20%**, that means that you'll whiff approximately once every 5 games. Conversely, on deck 2 the chance to whiff is actually not that low at **5.5%**, that's almost the double the rate of hitting an SSR in UmaMusume, beware!
 - Brainstorm 5 gains significant value over brainstorm 4 in deck 2, with the chances of hitting 2 or more cxs being slightly above **40%** vs **30%**. That's a third more likely!
 
