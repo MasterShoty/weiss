@@ -31,7 +31,7 @@ Let's use a standard brainstorm 4 as an example, we get the following probabilti
 | -----------  | ----- | ------ | ------ | ------ | ------ |
 | 8 in 50      | 51.4% |  39.9% | 10.5%  | 1.02%  | 0.03%  | 
 
-For comparison, here are the probabilities after performing a mulligan for 2 and clock drawing (5 + 2 + 1+ 2 = 10 cards). The percentages next to the first column is the chances to arrive to that deck state after drawing 10 cards.
+For comparison, here are the probabilities after performing a mulligan for 2 and clock drawing (5 + 2 + 1+ 2 = 10 cards). The percentages under the first column are the chances to arrive to that deck state after drawing 10 cards.
 
 | Brainstorm 4 | x ≥ 1 | x = 1 | x = 2 | x = 3 | x = 4 |
 | ------------ | ----- | ----- | ----- | ----- | ----- |
