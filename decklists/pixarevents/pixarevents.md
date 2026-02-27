@@ -11,7 +11,7 @@ Are you sick of these decks that brainstorm twice every turn, generate infinite 
 Usually events are tricky to play with because there are few ways to get them into hand. Most decks rely on drawing into their events or use combos that add a specific event. Thankfully, the Toy Story 30th Anniversary set offers more ways to dig for them along with a bunch of new exciting events to play with.
 
 [![Pixar Event Deck](./cards/7C0L9.png)](https://decklog-en.bushiroad.com/ja/view/7C0L9)
-
+[>> Encore Deck Link](https://www.encoredecks.com/deck/kGMj2rF9b)
 ## Overview
 *<sup>(click on images to get redirected to the official card page)</sup>*
 
