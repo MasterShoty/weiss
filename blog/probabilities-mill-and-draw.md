@@ -20,8 +20,8 @@ In this post I will be sharing probabilities of draw/mill events you will often 
 The goal of this post is help intermediate players, who are looking to improve their gameplay competitively, make more informed decisions by knowing the probabilities behind their actions. Being more aware of this can also help you accurately determine how lucky or unlucky you got, and be able to take objective notes of when the variance went your way or your opponent's way. Tracking your own statistics is a great way to find a path towards improvement, please check out Beanwolf's post about [**Variance, Mindset & other Delusions**](https://thebeanwolf.blogspot.com/2022/06/variance-mindset-other-delusions.html) for a more in-depth discussion of that. 
 
 ### Assumptions
-I will be using `8 in 50` for all deck 1 probabilities.
-For deck 2 I will be using `8 in 30`. This is after taking into account that there are 5 cards on board, 6 cards in hand, 4 cards in stock, 4 cards in clock, and 1 card in level. Not every deck 2 will have this probability, sometimes you'll be more compressed or less compressed. I found that this is a sufficient average to benchmark deck 2 with.
+For deck 1 I will use `8 in 50` for all probabilities.<br>
+For deck 2 I will use `8 in 30`. This is after taking into account that there are 5 cards on board, 6 cards in hand, 4 cards in stock, 4 cards in clock, and 1 card in level. Not every deck 2 will have this probability, sometimes you'll be more compressed or less compressed. I found that this is a sufficient average to benchmark deck 2 with.
 
 If you need convincing as to why I use those deck states and not something more realistic like `7 in 40` or `4 in 25`, etc then I will try to clear that up below. Otherwise, feel free to skip past and jump down to the various sections.
 
