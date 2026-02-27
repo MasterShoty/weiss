@@ -68,7 +68,7 @@ For something like double brainstorm 4 knowing the probability of hitting 2 or m
 
 Why do so many experienced players say that getting to deck 2 is important? Hopefully this table can demonstrate that quantitatively.
 
-### Extreme Deckstates w/ Brainstorm 4
+#### Extreme Deckstates w/ Brainstorm 4
 
 | Brainstorm 4 | x ≥ 1 | x = 1  | x = 2  | x = 3  | x = 4  |
 | -----------  | ----- | ------ | ------ | ------ | ------ |
@@ -80,7 +80,7 @@ Why do so many experienced players say that getting to deck 2 is important? Hope
 I picked several `x in 12` because these are important decision points when reaching the end of your deck.<br>
 As for `4 in 30` it's to represent a "poor" deck 2.
 
-### Insights
+#### Insights
 - The chances of hitting brainstorm 4 on deck 1 is practically a coinflip (**51.4%**), while the odds is increased significantly in your favor in deck 2 (**73.3%**) - it is over 40% more likely.
 - Even in a "poor" deck 2 the chances of hitting a brainstorm 4 is still close to a coinflip at **45.5%**. This also shows how strong deck 2 compression is.
 - For all you double brainstorm enjoyers out there the chances to whiff on deck 1 is more than **20%**, that means that you'll whiff approximately once every 5 games. Conversely, on deck 2 the chance to whiff is actually not that low at **5.5%**, that's almost the double the rate of hitting an SSR in UmaMusume, beware!
