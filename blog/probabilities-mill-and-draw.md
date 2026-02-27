@@ -21,7 +21,7 @@ The goal of this post is help intermediate players, who are looking to improve t
 
 ### Assumptions
 For deck 1 I will use `8 in 50` for all probabilities.<br>
-For deck 2 I will use `8 in 30`. This is after taking into account that there are 5 cards on board, 6 cards in hand, 4 cards in stock, 4 cards in clock, and 1 card in level. Not every deck 2 will have this probability, sometimes you'll be more compressed or less compressed. I found that this is a sufficient average to benchmark deck 2 with.
+For deck 2 I will use `8 in 30`. This is after taking into account that there are 5 cards on board, 6 cards in hand, 4 cards in stock, 4 cards in clock, and 1 card in level after refresh. Not every deck 2 will have be in this configuration, sometimes you'll be more compressed or less compressed. I found that this is a sufficient average to benchmark deck 2 with.
 
 If you need convincing as to why I use those deck states and not something more realistic like `7 in 40` or `4 in 25`, etc then I will try to clear that up below. Otherwise, feel free to skip past and jump down to the various sections.
 
@@ -43,8 +43,8 @@ For comparison, here are the probabilities after performing a mulligan for 2 and
 Doing some quick maths for the probabilities of hitting one or more cxs `60.7*0.14 + 55.2*0.35 + 49.2*0.32 + 42.7*0.15 = 49.97%`, this is very close to the probability for 8 in 50. In fact, this is a conservative estimate because we are missing the probabilities for 3, 2, and 1 in deck, which you'll find will add up to the original 51.4%. I hope that this is convincing enough to go ahead with using `8 in 50` for deck 1 probabilities, and `8 in 30` for deck 2. 
 
 ## Brainstorm {#brainstorm}
-Brainstorm is the most common form of mill, and arguably the most important form of mill so I will start with it.<br>
-*<sup>I know that there's literally only one way to perform a brainstorm 6 at the time of this writing, it's there for myself.</sup>*
+Brainstorm is the most common form of mill, and arguably the most important form of mill so we will start with it.<br>
+*<sup>I know that there's literally only one way to perform a brainstorm 6 at the time of this writing, but it's there for myself.</sup>*
 
 #### Deck 1
 
