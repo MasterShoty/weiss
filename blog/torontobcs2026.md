@@ -46,7 +46,7 @@ I played against another locals in the second match as well. Interestingly enoug
 
 **R3: CSM SS/Bar 1st W**
 
-Would you have guessed it I played against another locals, one of my teammates for the annual community hosted winter trio's event no less. My opponent didn't mulligan any cards at the start of the game so I was a little worried at the start of the game. Unfortunately he didn't cancel and couldn't field kishibes to out my lanes, I level'd myself from 2-4 to kill with double finisher while my opponent is at 3-2.
+Would you have guessed it I played against another locals, one of my teammates for the annual community hosted winter trio's event no less. My opponent didn't mulligan any cards at the start of the game so I was a little worried at first. Unfortunately he didn't cancel and couldn't field kishibes to out my lanes, I level'd myself from 2-4 to kill with double finisher while my opponent is at 3-2.
 
 **R4: HOL 8 Standby 2nd W**
 
