@@ -1,3 +1,5 @@
+---
+---
 /* Overwrite style page size*/
 .wrapper {
     max-width: calc(1000px - (30px * 2));
@@ -40,23 +42,39 @@ p:has(a img, img) em {
     max-width: 50em;
 }
 
-p:has(> a + em) em,
-p:has(> img + em) em {
-    margin-left: 0.5em;
+p:has(> a + em),
+p:has(> img + em) {
+    em {
+        margin-left: 0.5em;
+    }
 }
 
 /* Styling for grid images w/ caption on each of them */
 p:has(> a + em + :nth-last-child(n+1)) {
-      display: grid;
-      grid-auto-flow: column;
-      grid-template-rows: auto auto;
-      grid-template-columns: repeat(auto-fit, minmax(230px, max-content));
-      column-gap: 1em;
-      align-items: start;
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: auto auto;
+    grid-template-columns: repeat(auto-fit, minmax(230px, max-content));
+    column-gap: 1em;
+    align-items: start;
+
+    em {
+       width: 300px;
+       max-width: 100%;
+       margin: 0;
+    }
 }
 
-p:has(> a + em + :nth-last-child(n+1)) em {
-   width: 300px;
-   max-width: 100%;
-   margin: 0;
+/* Styling to bold table dividers */
+.bold-third-right {
+    td:nth-child(3),
+    th:nth-child(3) {
+         border-right: solid 1px;
+    }
+}
+
+.no-wrap {
+    td {
+        white-space: nowrap;
+    }
 }
