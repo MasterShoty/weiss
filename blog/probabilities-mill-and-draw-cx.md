@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Probabilities - Mill & Draw - CXs
+title: Probabilities - Mill & Draw CXs
 author: Shoty
 date: 2026-02-26
 permalink: blog/probabilities-mill-and-draw-CX/
@@ -12,7 +12,7 @@ description: Common probabilities for milling or drawing that you would often en
 - [Brainstorm](#brainstorm)
 - [Mill 3](#mill-3)
 - [Drawing CXs](#drawing-cxs)
-- [CXs Out - 1st, 2nd](#cxs-out)
+- [CXs Out](#cxs-out)
 
 ## Introduction {#introduction}
 In this post I will be sharing probabilities of various draws and mills involving CXs that you will often encounter in Weiss Schwarz. Examples of this includes chances of hitting brainstorm on deck 1, chances of missing aqua riki on deck 1, chances of drawing the right CXs by turn 2, etc. These are all examples of hypergeometric distributions and all numbers you see below are calculated with the help of the calculator from [**StatTrek**](https://stattrek.com/online-calculator/hypergeometric).
@@ -178,5 +178,5 @@ I will not be taking into account triggers or damage taken because in a randomiz
     - Is this a high enough chance to warrant playing or deck-building around? To me that answer is yes.
     - By the way, ditching a CX off mulligan doesn't mean that the chances of drawing more CXs has decreased. The **10.9%** chance of seeing 4 or more CXs after drawing 13 cards is fixed regardless of whether you ditched one or two CXs off mulligan.
 
-## CXs Out - 1st, 2nd {#cxs-out}
-Chances of being out 4 CXs going first, going second
+## CXs Out {#cxs-out}
+Chances of being out 5,6,7 CXs going first, going second.

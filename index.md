@@ -16,6 +16,6 @@ Pet deck for pet series. Cheat stock & slam cx every turn, build memory compress
 ### [Toronto BCS 2026 (3rd Place)](./blog/torontobcs2026)
 My thoughts and experience playing Azur Lane 8 Pants and achieving my first top in Weiss Schwarz
 
-### Probabilities - Mill and Draw - CXs (Coming Soon)
-In this post I will go over probabilities that you will commonly encounter in Weiss Schwarz such as brainstorm, drawing cxs, and plussing 0s. I recommend intermediate players to give this a read because it can help you make more informed decisions during your games.
+### Probabilities - Mill and Draw CXs (Coming Soon)
+In this post I will go over probabilities regarding CXs that you will commonly encounter in Weiss Schwarz such as brainstorm, milling, or drawing the right CX. I recommend intermediate players to give this a read because it can help you make more informed decisions during your games.
 
