@@ -15,9 +15,9 @@ description: Common probabilities for milling or drawing that you would often en
 - [CXs Out](#cxs-out)
 
 ## Introduction {#introduction}
-In this post I will be sharing probabilities of various draws and mills involving CXs that you will often encounter in Weiss Schwarz. Examples of this includes chances of hitting brainstorm on deck 1, chances of missing aqua riki on deck 1, chances of drawing the right CXs by turn 2, etc. These are all examples of hypergeometric distributions and all numbers you see below are calculated with the help of the calculator from [**StatTrek**](https://stattrek.com/online-calculator/hypergeometric).
+In this post I will be sharing probabilities of various draws and mills involving CXs that you will often encounter in Weiss Schwarz. Examples of this includes chances of hitting brainstorm on deck 1, milling CXs off your advantage combo, or drawing the right CXs by turn 2. These are all examples of hypergeometric distributions and all numbers you see below are calculated with the help of the calculator from [**StatTrek**](https://stattrek.com/online-calculator/hypergeometric).
 
-The goal of this post is help intermediate players, who are looking to improve their gameplay competitively, make more informed decisions by knowing the probabilities behind their actions. Being more aware of this can also help you accurately determine how lucky or unlucky you got, and be able to take objective notes of when the variance went your way or your opponent's way. Tracking your own statistics is a great way to find a path towards improvement, please check out Beanwolf's post about [**Variance, Mindset & other Delusions**](https://thebeanwolf.blogspot.com/2022/06/variance-mindset-other-delusions.html) for a more in-depth discussion of that. 
+This is more of an education post and the goal is to help intermediate players, who are looking to improve their gameplay competitively, make more informed decisions by knowing the probabilities behind their actions. Being more aware of the various chances can help you better judge how lucky or unlucky you were, and allow you to take more objective notes on when variance favored you or your opponent. Tracking your own statistics is a great way to find a path towards improvement, please check out Beanwolf's post about [**Variance, Mindset & other Delusions**](https://thebeanwolf.blogspot.com/2022/06/variance-mindset-other-delusions.html) for a more in-depth discussion of that. 
 
 ### Assumptions
 - For deck 1 I will use `8 in 50` for all probabilities.<br>
@@ -170,13 +170,13 @@ I will not be taking into account triggers or damage taken because in a randomiz
 #### Insights
 - The chances of drawing the correct CX for level 1 combo is quite high at **74.4%** after a typical mulligan 3 - you'll only miss the CX about one in every 4 games.
 - There's some diminishing return for mulligan. A mulligan for 0 vs 2 gives a **7%** increase, while a mulligan for 3 vs 5 gives **5.5%**.
-    - Realistically there are other more important factors at play during mulligan for this to be a consideration. 
+    - Realistically there are other more important factors at play during mulligan before this becomes a consideration. 
     <br><br>
-- By turn 2 you can expect to see any **2** CXs on average, so it's worthwhile to consider what to do with having a spare CX. 
+- By turn 2 you can expect to see any **2** CXs on average, so it's worthwhile to be prepared and know what to do with a spare CX. 
     - Should you hold it for next turn, clock it, find a pitch out, slam it turn 1? The answer will depend on the other cards in your hand, and the deck you're playing.
 - Getting flooded by 3 or more CXs in hand is not that unlikely at **34.1%** after a typical mulligan for 2 - it is **10.9%** for 4 or more.
     - Is this a high enough chance to warrant playing or deck-building around? To me that answer is yes.
     - By the way, ditching a CX off mulligan doesn't mean that the chances of drawing more CXs has decreased. The **10.9%** chance of seeing 4 or more CXs after drawing 13 cards is fixed regardless of whether you ditched one or two CXs off mulligan.
 
 ## CXs Out {#cxs-out}
-Chances of being out 5,6,7 CXs going first, going second.
+Chances of being out 5, 6, 7 CXs going first, going second.
