@@ -3,7 +3,7 @@ layout: post
 title: Probabilities - Mill & Draw CXs
 author: Shoty
 date: 2026-02-26
-permalink: blog/probabilities-mill-and-draw-CX/
+permalink: blog/probabilities-mill-and-draw-cx/
 description: Common probabilities for milling or drawing that you would often encounter in Weiss Schwarz.
 ---
 
