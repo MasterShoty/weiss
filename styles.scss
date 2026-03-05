@@ -73,6 +73,21 @@ p:has(> a + em + :nth-last-child(n+1)) {
     }
 }
 
+.bold-fourth-right {
+    td:nth-child(4),
+    th:nth-child(4) {
+         border-right: solid 1px;
+    }
+}
+
+.bold-fifth-right {
+    td:nth-child(5),
+    th:nth-child(5) {
+         border-right: solid 1px;
+    }
+}
+
+/* No-wrap class for tables */
 .no-wrap {
     td {
         white-space: nowrap;
