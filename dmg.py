@@ -96,14 +96,17 @@ losses = 0
 wins = 0
 sample = 10000
 for i in range(0, sample):
-    # 8 in 23 deck, 0 wr
-    #x = Game(8, 23, 0, 0, level = 2, clock = 5)
-    # 2 in 9 deck, 6 in 20 wr
-    # x = Game(2, 9, 6, 20, level = 2, clock = 5)
     # 8 in 30 deck, 10 wr
     x = Game(8, 30, 0, 10, level = 3, clock = 0)
     # Triple Marine
     x.deal_dmg([2, 3, 2, 3, 2, 3])
+
+    # Examples:
+    # 8 in 23 deck, 0 wr
+    # x = Game(8, 23, 0, 0, level = 2, clock = 5)
+    # 2 in 9 deck, 6 in 20 wr
+    # x = Game(2, 9, 6, 20, level = 2, clock = 3)
+
     # 4 Stickers
     # x.deal_dmg([4, 4, 4, 4, 3, 2, 3, 2, 3, 2])
     # TRV, 3 burns
