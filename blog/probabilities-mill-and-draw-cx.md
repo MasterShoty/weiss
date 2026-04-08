@@ -172,10 +172,8 @@ I will not be taking into account triggers or damage taken because in a randomiz
 - There's some diminishing return for mulligan. A mulligan for 0 vs 2 gives a **7%** increase, while a mulligan for 3 vs 5 gives **5.5%**.
     - Realistically there are other more important factors at play during mulligan before this becomes a consideration. 
     <br><br>
-- By turn 2 you can expect to see any **2** CXs on average, so it's worthwhile to be prepared and know what to do with a spare CX. 
-    - Should you hold it for next turn, clock it, find a pitch out, slam it turn 1? The answer will depend on the other cards in your hand, and the deck you're playing.
-- Getting flooded by 3 or more CXs in hand is not that unlikely at **34.1%** after a typical mulligan for 2 - it is **10.9%** for 4 or more.
-    - Is this a high enough chance to warrant playing or deck-building around? To me that answer is yes.
+- By turn 2 you can expect to see any **2** CXs on average, so it's worthwhile to be prepared and know what to do with a spare CX for every game. 
+- Getting flooded by 3 or more CXs in hand is not that unlikely at **34.1%** after a typical mulligan for 2 - it is **10.9%** for 4 or more. It might be worthwhile to consider this during deckbuilding to make sure that there are ditch-outs in case things go south.
     - By the way, ditching a CX off mulligan doesn't mean that the chances of drawing more CXs has decreased. The **10.9%** chance of seeing 4 or more CXs after drawing 13 cards is fixed regardless of whether you ditched one or two CXs off mulligan.
 
 ## CXs Out {#cxs-out}
