@@ -12,37 +12,22 @@ description: Common probabilities for milling or drawing that you would often en
 - [Brainstorm](#brainstorm)
 - [Mill 3](#mill-3)
 - [Drawing CXs](#drawing-cxs)
-- [CXs Out](#cxs-out)
+- [Assumptions](#assumptions)
 
 ## Introduction {#introduction}
 In this post I will be sharing probabilities of various draws and mills involving CXs that you will often encounter in Weiss Schwarz. Examples of this includes chances of hitting brainstorm on deck 1, milling CXs off your advantage combo, or drawing the right CXs by turn 2. These are all examples of hypergeometric distributions and all numbers you see below are calculated with the help of the calculator from [**StatTrek**](https://stattrek.com/online-calculator/hypergeometric).
 
 This is more of an education post and the goal is to help intermediate players, who are looking to improve their gameplay competitively, make more informed decisions by knowing the probabilities behind their actions. Being more aware of the various chances can help you better judge how lucky or unlucky you were, and allow you to take more objective notes on when variance favored you or your opponent. Tracking your own statistics is a great way to find a path towards improvement, please check out Beanwolf's post about [**Variance, Mindset & other Delusions**](https://thebeanwolf.blogspot.com/2022/06/variance-mindset-other-delusions.html) for a more in-depth discussion of that. 
 
-### Assumptions
+### Preface
+In each section I will first present the relevant data, followed by an insights section to share any interesting observations. While the insights section would cover many common questions that a Weiss player might have, I urge you to take a close look at the data yourself.
+
 - For deck 1 I will use `8 in 50` for all probabilities.<br>
 - For deck 2 I will use `8 in 30` and `7 in 30`.
     - This is after taking into account that there are 5 cards on board, 6 cards in hand, 4 cards in stock, 4 cards in clock, and 1 card in level after refresh. 
     - Not every deck 2 will have be in this configuration, sometimes you'll be more compressed or less compressed. I found that this is a sufficient average to benchmark deck 2 with.
 
-If you need convincing as to why I use those deck states and not something more realistic like `7 in 40` or `4 in 25`, etc then I will try to clear that up below. Otherwise, feel free to skip past and jump down to the various sections.
-
-Let's use a standard brainstorm 4 as an example, we get the following probabilties in a brand new deck.
-
-| Brainstorm 4 | x ≥ 1 | x = 1  | x = 2  | x = 3  | x = 4  |
-| -----------  | ----- | ------ | ------ | ------ | ------ |
-| 8 in 50      | 51.4% |  39.9% | 10.5%  | 1.02%  | 0.03%  | 
-
-For comparison, here are the probabilities after performing a mulligan for 2 and clock drawing (5 + 2 + 1+ 2 = 10 cards). The percentages under the first column are the chances to arrive to that deck state after drawing 10 cards.
-
-| Brainstorm 4 | x ≥ 1 | x = 1 | x = 2 | x = 3 | x = 4 |
-| ------------ | ----- | ----- | ----- | ----- | ----- |
-| 8 in 40 (14%)| 60.7% | 43.4% | 15.2% | 1.96% | 0.08% |
-| 7 in 40 (35%)| 55.2% | 41.8% | 12.1% | 1.26% | 0.04% | 
-| 6 in 40 (32%)| 49.2% | 39.3% | 9.21% | 0.74% | 0.02% | 
-| 5 in 40 (15%)| 42.7% | 35.8% | 6.51% | 0.38% | 0.01% | 
-
-Doing some quick maths for the probabilities of hitting one or more CXs we have: `60.7*0.14 + 55.2*0.35 + 49.2*0.32 + 42.7*0.15 = 49.97%`, this is very close to the probability for 8 in 50. In fact, this is a conservative estimate because we are missing the probabilities for 3, 2, and 1 in deck, which you'll find will add up to the original 51.4%. I hope that this is convincing enough to go ahead with using `8 in 50` for deck 1 probabilities, and `8 in 30` for deck 2. 
+If you need convincing as to why I use `8 in 50` for the deck 1 then please read the ["Assumptions"](#assumptions) section.
 
 ## Brainstorm {#brainstorm}
 Brainstorm is the most common form of mill, and arguably the most important form of mill so we will start with it.<br>
@@ -122,12 +107,12 @@ A lot of actions in Weiss has to do with milling 3, most commonly by attacking 3
 {: .bold-third-right .no-wrap}
 
 #### Insights
-- Tri-laning is pretty much a coin flip whether you'll trigger in deck 1 and 2, ranging from **41.4%** to **62.1%**.
-- When swinging three times on a super compressed deck state you're not more unlikely to trigger 2 CXs over 1 - they are both **40.9%** each respectively. Meanwhile, there's a **~9%** chance to triple trigger, and the same chance to not trigger at all.
+- Tri-laning is close to coin flip whether you'll trigger in deck 1 at **41.4%**, then in deck 2 it is more favored at **62.1%**.
+- Similar to the above, when looking for a CX on deck 1, clock-draw will get you at least one **41.4%** of the time. However, if you didn't get a CX and needed to use a Koume-3 to dig for one, the chances of success for the entire interaction is only **67.0%** - this means that you'll fail to get a CX approximately a third of the time.
 
-- When looking for a CX on deck 1, clock-draw will get you at least one **41.4%** of the time. If you didn't get a CX and needed to use a Koume-3 to dig for one, the chances of success for the entire interaction is only **67.0%** - this means that you'll fail to get a CX approximately a third of the time. 
+- When swinging three times on a super compressed deck state (6 in 12) you're not more unlikely to trigger 2 CXs over 1 - they are both **40.9%** each respectively. Meanwhile, there's a **~9%** chance to triple trigger, and the same chance to not trigger at all.
 
-- The chances of plussing 2 on Itsuki combo is pretty good on Deck 1 at almost **60%**, but from deck 2 and onwards it starts to become worse than coinflip. The chances of milling 2 CXs to not give any plus at all is also quite high at over **16.6%** on deck 2.
+- The chances of plussing 2 on Itsuki combo is pretty good on Deck 1 at almost **60%**, but from deck 2 and onwards it starts to become worse than coinflip. The chances of milling 2 CXs to go even is also quite high at over **16.6%** on deck 2.
     - In this scenario it might be more useful to look at the mean - the expected number of CXs you'll mill. Following is the mean for triple Itsuki (mill 9).
 
         | Mill 3 x 3 | 8 in 50 | 8 in 30 | 7 in 30 |
@@ -176,5 +161,22 @@ I will not be taking into account triggers or damage taken because in a randomiz
 - Getting flooded by 3 or more CXs in hand is not that unlikely at **34.1%** after a typical mulligan for 2 - it is **10.9%** for 4 or more. It might be worthwhile to consider this during deckbuilding to make sure that there are ditch-outs in case things go south.
     - By the way, ditching a CX off mulligan doesn't mean that the chances of drawing more CXs has decreased. The **10.9%** chance of seeing 4 or more CXs after drawing 13 cards is fixed regardless of whether you ditched one or two CXs off mulligan.
 
-## CXs Out {#cxs-out}
-Chances of being out 5, 6, 7 CXs going first, going second.
+## Assumptions {#assumptions}
+This section is not part of the main article. Here, I will explain why `8 in 30` is used for the first deck instead of something more realistic like `7 in 40`.
+
+Let's use a standard brainstorm 4 as an example, we get the following probabilties in a brand new deck.
+
+| Brainstorm 4 | x ≥ 1 | x = 1  | x = 2  | x = 3  | x = 4  |
+| -----------  | ----- | ------ | ------ | ------ | ------ |
+| 8 in 50      | 51.4% |  39.9% | 10.5%  | 1.02%  | 0.03%  | 
+
+For comparison, here are the probabilities after performing a mulligan for 2 and clock drawing (5 + 2 + 1+ 2 = 10 cards). The percentages under the first column are the chances to arrive to that deck state after drawing 10 cards.
+
+| Brainstorm 4 | x ≥ 1 | x = 1 | x = 2 | x = 3 | x = 4 |
+| ------------ | ----- | ----- | ----- | ----- | ----- |
+| 8 in 40 (14%)| 60.7% | 43.4% | 15.2% | 1.96% | 0.08% |
+| 7 in 40 (35%)| 55.2% | 41.8% | 12.1% | 1.26% | 0.04% | 
+| 6 in 40 (32%)| 49.2% | 39.3% | 9.21% | 0.74% | 0.02% | 
+| 5 in 40 (15%)| 42.7% | 35.8% | 6.51% | 0.38% | 0.01% | 
+
+Doing some quick maths for the probabilities of hitting one or more CXs we have: `60.7*0.14 + 55.2*0.35 + 49.2*0.32 + 42.7*0.15 = 49.97%`, this is very close to the probability for `8 in 50`. In fact, this is a conservative estimate because we are missing the probabilities for 3, 2, and 1 CXs in deck, which you'll find will add up to the original 51.4%. I hope that this is convincing enough to go ahead with using `8 in 50` for deck 1 probabilities. 
