@@ -2,7 +2,7 @@
 layout: post
 title: Probabilities - Mill & Draw CXs
 author: Shoty
-date: 2026-02-26
+date: 2026-04-08
 permalink: blog/probabilities-mill-and-draw-cx/
 description: Common probabilities for milling or drawing that you would often encounter in Weiss Schwarz.
 ---
@@ -12,6 +12,7 @@ description: Common probabilities for milling or drawing that you would often en
 - [Brainstorm](#brainstorm)
 - [Mill 3](#mill-3)
 - [Drawing CXs](#drawing-cxs)
+- [Concluding Remarks](#concluding-remarks)
 - [Assumptions](#assumptions)
 
 ## Introduction {#introduction}
@@ -160,6 +161,9 @@ I will not be taking into account triggers or damage taken because in a randomiz
 - By turn 2 you can expect to see any **2** CXs on average, so it's worthwhile to be prepared and know what to do with a spare CX for every game. 
 - Getting flooded by 3 or more CXs in hand is not that unlikely at **34.1%** after a typical mulligan for 2 - it is **10.9%** for 4 or more. It might be worthwhile to consider this during deckbuilding to make sure that there are ditch-outs in case things go south.
     - By the way, ditching a CX off mulligan doesn't mean that the chances of drawing more CXs has decreased. The **10.9%** chance of seeing 4 or more CXs after drawing 13 cards is fixed regardless of whether you ditched one or two CXs off mulligan.
+
+## Concluding Remarks {#concluding-remarks}
+Game's all luck. text text text
 
 ## Assumptions {#assumptions}
 This section is not part of the main article. Here, I will explain why `8 in 30` is used for the first deck instead of something more realistic like `7 in 40`.
