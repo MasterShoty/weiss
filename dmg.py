@@ -99,9 +99,9 @@ wins = 0
 sample = 10000
 for i in range(0, sample):
     # 8 in 30 deck, 10 clean in wr
-    x = Game(8, 30, 0, 10, level=3, clock=0)
+    # x = Game(8, 30, 0, 10, level=3, clock=0)
     # Triple Marine
-    x.deal_dmg([2, 3, 2, 3, 2, 3])
+    # x.deal_dmg([2, 3, 2, 3, 2, 3])
 
     # Examples:
     # 8 in 23 deck, 0 cards in wr (fresh deck)
@@ -114,6 +114,8 @@ for i in range(0, sample):
     # TRV, 3 burns
     # x.deal_dmg([2, 2, 3, 3, 4, 3, 1, 1, 1, 1, 1, 3])
 
+    x = Game(2, 9, 4, 14, level=2, clock=0)
+    x.deal_dmg([2, 2, 3, 4, 3, 1, 1, 1, 1, 1, 3])
     if x.lost:
         losses += 1
     else:
