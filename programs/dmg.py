@@ -153,7 +153,7 @@ class Game:
 
 losses = 0
 wins = 0
-sample = 10
+sample = 50000
 for i in range(0, sample):
     # 8 in 30 deck, 10 clean in wr
     # x = Game(8, 30, 0, 10, level=3, clock=0)
